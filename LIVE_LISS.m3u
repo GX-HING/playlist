@@ -613,6 +613,9 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", newtv搏击
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
+#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台HD
+http://ttzx.tv/hls/jade.m3u8
+
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-567
 http://m.567it.com/jade.m3u8
 
