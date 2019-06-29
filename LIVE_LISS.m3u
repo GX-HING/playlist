@@ -613,99 +613,14 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", newtv搏击
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
-
-#EXTINF:-1, tvg-logo="" tvg-id="tvbfeicui" group-title="特别", 翡翠台HD-211
-http://211.149.163.216:6330/v/jade1.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="tvbfeicui" group-title="特别", 翡翠台HD-123
-http://123.207.42.38/tvb.php?type=jade
-
-#EXTINF:-1, tvg-logo="" tvg-id="tvbfeicui" group-title="特别", 翡翠台HD-S
-http://s-423975.gotocdn.com:6330/v/jade1.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="tvbfeicui" group-title="特别", 明珠台HD-S
-http://s-423975.gotocdn.com:6330/v/pearl1.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线新闻台HD-AN
-https://aning.me/itv/tvb.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线新闻台HD-211
-http://211.149.163.216:6330/v/inews.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线新闻台HD-L
-http://live.cniptv.tk:13579/live/tvbn.php?pdid=inews
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线新闻台HD-Q
-http://qd.timetv.cn/approve/live2.ashx?type=tvbn&channel=inews
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线财经台HD-T
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 无线财经台HD-T
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/TVB19/TVB19_140x140.png" tvg-id="" group-title="特别", 娱乐新闻台HD-S
-http://s-423975.gotocdn.com:6330/v/tvb.php?type=enews
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 娱乐新闻台HD-T
-http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/chunklist_b1096000.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 娱乐新闻台HD-T
-http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-211
-http://211.149.163.216:6330/v/jade.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-S
-http://s-423975.gotocdn.com:6330/v/jade.php
-
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-567
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-116
-http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=5ae7f57f79b42228&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=30&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-116
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=30&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 明珠台S-S
-http://s-423975.gotocdn.com:6330/v/pearl.php
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", J2SD
-rtmp://p2.bertiechina.cn/lhcq/hkj2
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 有线新闻台
-http://ottproxy1.mott.tv/livehls/MOB-SCC/index.m3u8?token=128c23e3733abd26b35145f59b2bf86f94e726a5ceeaa96ea0139b483cb2ae928efd5679243064b8904e1fcd84b2cddb&sessionID=suBYLNfg49z4
-
-#EXTINF:-1, tvg-logo="" tvg-id="hyxwHD" group-title="特别", 寰宇新闻台
-http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="STARChineseMovies" group-title="特别", 卫视电影台HD
-http://t104-156bd5.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8$卫视卡式台
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", Now新闻台
-http://hk1.sixu.ml/hls/now.php?id=332
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", Now直播台
-http://hk1.sixu.ml/hls/now.php?id=331
-
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", RHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="qimiao" group-title="特别", 奇妙电视
+#EXTINF:-1, tvg-logo="" tvg-id="qimiao" group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="ngodili" group-title="特别", 国家地理
-http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="NHK World TV" group-title="特别", NHK WORLD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
 
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", Sky NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-
-#EXTINF:-1, tvg-logo="" tvg-id="guangxi" group-title="特别", 广西卫视HD
-http://222.216.111.82:8088/flv0
 
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 钦州新闻综合
 http://live.gxqztv.com/cspd1/sd/live.m3u8
