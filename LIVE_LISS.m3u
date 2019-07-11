@@ -628,22 +628,5 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 钦州新闻综合
 http://live.gxqztv.com/cspd1/sd/live.m3u8
 
-#EXTINF:-1,  group-title="NSFW", 松视一台
-rtmp://wv3.tp33.net/tv/ttv11
-
-#EXTINF:-1,  group-title="NSFW", HAPPYTV
-rtmp://wv3.tp33.net/tv/ttv12
-
-#EXTINF:-1,  group-title="NSFW", 性感
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/chunklist_w1040081231_b2592000.m3u8
-
-#EXTINF:-1,  group-title="NSFW", JASMIN 
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w.m3u8
-
-#EXTINF:-1,  group-title="NSFW", 脱衣秀前台
-https://5964ed3e60741.streamlock.net/2001edge/2001MS_RTSP.stream/.m3u8
-
-#EXTINF:-1,  group-title="NSFW", 脱衣秀后台
-https://5964ed3e60741.streamlock.net/2001edge/2001DR_RTSP.stream/.m3u8
 ]}
 
