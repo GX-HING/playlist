@@ -491,6 +491,43 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", newtv搏击
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", tvg-id="" group-title="央视官网直播", CCTV-1综合
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", tvg-id="" group-title="央视官网直播", CCTV-2财经
+https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", tvg-id="" group-title="央视官网直播", CCTV-3综艺
+https://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586745032_233.png", tvg-id="" group-title="央视官网直播", CCTV-4中文国际(亚)
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv4_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586736612_798.png", tvg-id="" group-title="央视官网直播", CCTV-4中文国际(欧)
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", tvg-id="" group-title="央视官网直播", CCTV-4中文国际(美)
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="" group-title="央视官网直播", CCTV-5体育
+https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8 
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="央视官网直播", CCTV-5+体育赛事
+https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="" group-title="央视官网直播", CCTV-6电影
+https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", tvg-id="" group-title="央视官网直播", CCTV-7军事农业
+https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", tvg-id="" group-title="央视官网直播", CCTV-8电视剧
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", tvg-id="" group-title="央视官网直播", CCTV-9纪录
+https://cctvalih5c.v.myalicdn.com/live/cctv8_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", tvg-id="" group-title="央视官网直播", CCTV-10科教
+https://cctvalih5c.v.myalicdn.com/live/cctv10_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", tvg-id="" group-title="央视官网直播", CCTV-11戏曲
+https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", tvg-id="" group-title="央视官网直播", CCTV-12社会与法
+https://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", tvg-id="" group-title="央视官网直播", CCTV-13新闻
+https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="" group-title="央视官网直播", CCTV-14少儿
+https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8 
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="" group-title="央视官网直播", CCTV-15音乐
+https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
+
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台HD
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台S-567
