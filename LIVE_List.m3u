@@ -3,6 +3,8 @@
 https://dbx2.tyswmp.com/20190403/FimyjQYH/index.m3u8
 #EXTINF:-1, tvg-logo="https://tupian.tupianzy.com/pic/upload/vod/2019-01-16/201901161547644844.jpg", tvg-id="" group-title="电影", 蜘蛛侠：英雄远征[预告片]
 http://cn2.zuidadianying.com/20190116/ED2CDgBs/index.m3u8
+#EXTINF:-1, tvg-logo="http://pic.tudou1238.com/upload/vod/2019-07-15/201907151563155931.png", tvg-id="" group-title="电影",【2019】筑梦/大陆/剧情/国语/1080P
+https://sp.new131.com/20190715/bRV9sHcp/index.m3u8
 
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/NANNINGTV1/NANNINGTV1_140x140.png", tvg-id="" group-title="广西联通IPTV", 南宁新闻综合
 rtsp://103.251.96.15/PLTV/88888888/224/3221225643/10000100000000060000000000091567_0.smil
