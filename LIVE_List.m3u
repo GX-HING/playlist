@@ -47,6 +47,45 @@ http://219.232.160.161:5080/hls/bycgekwh.m3u8
 #EXTINF:-1, tvg-logo="",  group-title="天威HLS",  TVB明珠台
 http://219.232.160.161:5080/hls/b2xajcu7.m3u8
 
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-1HD
+rtmp://219.232.160.161/livestream/pajaki89
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-2HD
+rtmp://219.232.160.161/livestream/rrzmuhnm
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-3HD
+rtmp://219.232.160.161/livestream/ahqmwz8a
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-4SD
+rtmp://219.232.160.161/livestream/6x3exjmc
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-5HD
+rtmp://219.232.160.161/livestream/fz5h64cq
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-5+HD
+rtmp://219.232.160.161/livestream/6qrr3ik5
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-6HD
+rtmp://219.232.160.161/livestream/gyrzqju5
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-8HD
+rtmp://219.232.160.161/livestream/5kzu6s4r
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  CCTV-13SD
+rtmp://219.232.160.161/livestream/uw78vz3f
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  深圳公共
+rtmp://219.232.160.161/livestream/49r8htka
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  广东卫视HD
+rtmp://219.232.160.161/livestream/2r8aaf9n
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  东方卫视HD
+rtmp://219.232.160.161/livestream/k3ywhta4
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  浙江卫视HD
+rtmp://219.232.160.161/livestream/sg4zckuw
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  天津卫视HD
+rtmp://219.232.160.161/livestream/9qe8kz6b
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  深圳公共
+rtmp://219.232.160.161/livestream/49r8htka
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  南方少儿
+rtmp://219.232.160.161/livestream/k9j8ij3v
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  凤凰电影
+rtmp://219.232.160.161/livestream/fdwypqk6
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  TVB翡翠台
+rtmp://219.232.160.161/livestream/bycgekwh
+#EXTINF:-1, tvg-logo="",  group-title="天威RTMP",  TVB明珠台
+rtmp://219.232.160.161/livestream/b2xajcu7
+
 #EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  无线新闻
 http://hlslive2.ks-cdn.m1905.com/live/channelca87e0d9abd740e1a2f0ad0b5eda09c9.flv
 #EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  翡翠台
