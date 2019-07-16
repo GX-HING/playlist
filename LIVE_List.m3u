@@ -8,6 +8,75 @@ https://sp.new131.com/20190715/bRV9sHcp/index.m3u8
 #EXTINF:-1, tvg-logo="https://img.pic-imges.com/pic/upload/vod/2019-07/15631725511.jpg", tvg-id="" group-title="电影", 德云社岳云鹏相声专场上海站2019/HD中字
 https://56.com-t-56.com/20190714/23695_8be72474/index.m3u8
 
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  无线新闻
+http://hlslive2.ks-cdn.m1905.com/live/channelca87e0d9abd740e1a2f0ad0b5eda09c9.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  翡翠台
+http://hlslive2.ks-cdn.m1905.com/live/channelda6a827bfe2d40b4a6eb96516b9e0f37.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  香港开电视
+http://bytedance.hdllive.ks-cdn.com/live/797cb4667ba646aeb303418bd70a51af.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  香港电视31台
+http://bytedance.hdllive.ks-cdn.com/live/4692323f9d154ae2ad023510fa26c4a0.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  香港电视32台
+http://bytedance.hdllive.ks-cdn.com/live/f521ceccd9be4e60a8aab6a4cf01f541.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  TVB星河
+http://bytedance.hdllive.ks-cdn.com/live/a273d0f935a84010a7c1ff0d92e932ef.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  TVB功夫
+http://bytedance.hdllive.ks-cdn.com/live/e899c0a1b5c245cd816d725b7feefee1.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  中天新闻
+http://bytedance.hdllive.ks-cdn.com/live/1048683b32b14d86b9df2ff001dbfb1e.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  中天亚洲
+http://bytedance.hdllive.ks-cdn.com/live/5297d04ca4a74674a3a4b98957c487dd.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  龙祥时代
+http://bytedance.hdllive.ks-cdn.com/live/a53aa810667f46d5bd948806fd02d028.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  天映频道
+http://bytedance.hdllive.ks-cdn.com/live/3bd1bb602bed40bf81365718cc602a42.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  八大娱乐
+http://bytedance.hdllive.ks-cdn.com/live/1b2b5e5b599e4b72aa1b60dcd71ac8fd.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  八大综合
+http://bytedance.hdllive.ks-cdn.com/live/e82dadecac6740edae518c9269555ac5.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  寰宇新闻
+http://bytedance.hdllive.ks-cdn.com/live/8c78b36339004fe88b3add42686e4b81.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  寰宇新闻2
+http://bytedance.hdllive.ks-cdn.com/live/f9261dabac37439684e43ee18a9b8bdc.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  壹新闻
+http://bytedance.hdllive.ks-cdn.com/live/ad1b180ac9df45dd8fc132f716b8d486.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  TVBS新闻
+http://bytedance.hdllive.ks-cdn.com/live/deb6ea65de6d4eb0814d73cb4bd89817.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  非凡新闻
+http://bytedance.hdllive.ks-cdn.com/live/a4f20f0a8a7d44c9966b9b0702d66e9a.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  三立新闻
+http://bytedance.hdllive.ks-cdn.com/live/e598a1bacc5d4576a7930316da1a4fd4.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  中视
+http://bytedance.hdllive.ks-cdn.com/live/376e0058dc3742c5a9bacb1695d5f2ca.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  华视
+http://bytedance.hdllive.ks-cdn.com/live/2481584e8aeb40d7954489d5fc683856.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  公视
+http://bytedance.hdllive.ks-cdn.com/live/838e9d7e05f04a589f58aca6a1e1f682.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  台视
+http://bytedance.hdllive.ks-cdn.com/live/55712ff0e0a94c17857e4bea91f9d9a1.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  民视
+http://bytedance.hdllive.ks-cdn.com/live/6097c62f33704cce9ca5d1c450ebb06b.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森戏剧
+http://bytedance.hdllive.ks-cdn.com/live/dece51b148d04259adba4e0c37528c98.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森超视
+http://bytedance.hdllive.ks-cdn.com/live/f6978b0440144ad8b6548ae627f5be75.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森电影
+http://bytedance.hdllive.ks-cdn.com/live/0bb502f6262a4fac8e3f562edc3bf7ff.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森洋片
+http://bytedance.hdllive.ks-cdn.com/live/ad603df7520e4563a145204e17600d99.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森新闻
+http://bytedance.hdllive.ks-cdn.com/live/24c78bee10dd4defba3dcf02aba4b8f8.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  东森综合
+http://bytedance.hdllive.ks-cdn.com/live/dd7ffaaaf0964dd0b528ef4badce3be2.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  凤凰卫视中文
+http://hlslive2.ks-cdn.m1905.com/live/a9983357c04e4ec9906e9c8589b44936.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  凤凰电影
+http://bytedance.hdllive.ks-cdn.com/live/fc86ee0307b148289a1ddedd2eae9315.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  星空卫视
+http://bytedance.hdllive.ks-cdn.com/live/23ef5a711b5648fe80c95bba6b5d2a5c.flv
+#EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  新视觉
+http://flv2.liveshow.lss-user.baidubce.com/live/abed2944351349318258276fe1e50299.flv
+
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/NANNINGTV1/NANNINGTV1_140x140.png", tvg-id="" group-title="广西联通IPTV", 南宁新闻综合
 rtsp://103.251.96.15/PLTV/88888888/224/3221225643/10000100000000060000000000091567_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png" tvg-id="guangxi" group-title="广西联通IPTV", 广西卫视
