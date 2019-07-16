@@ -1,29 +1,28 @@
-
-#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/11/9309ab81a54a4e84bddad067206bb768-1330.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第1集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9309ab81a54a4e84bddad067206bb768/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/12/aca286e825d74375b229ec3e71b63930-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第2集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/aca286e825d74375b229ec3e71b63930/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/12/7ffc7a681d7f4f11be5025a24f589aec-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第3集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7ffc7a681d7f4f11be5025a24f589aec/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/13/b2aca0b918e34a7da4eec768b1f8014a-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第4集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2aca0b918e34a7da4eec768b1f8014a/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/13/0a339a10eb5341de9736b39c78a16fec-2493.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第5集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0a339a10eb5341de9736b39c78a16fec/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/13/e5bd278dd62e418a8e8abf7e84fceeed-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第6集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e5bd278dd62e418a8e8abf7e84fceeed/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/13/62c710a910d543f79b2bcfee0617566c-2495.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第7集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/62c710a910d543f79b2bcfee0617566c/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/13/f0f17f6e83a3485bbc1fe260717bb8ba-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第8集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f0f17f6e83a3485bbc1fe260717bb8ba/2000.m3u8 
-#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/14/7ed544bf3fb3429b84db86377b8204f6-2494.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第9集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7ed544bf3fb3429b84db86377b8204f6/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/14/1c8941eba8314c0d8a74ca09cdb39f25-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 《花开时节》 第10集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c8941eba8314c0d8a74ca09cdb39f25/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/15/67df9082c74a4f80aad68f66a66b9daa-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 第11集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ 67df9082c74a4f80aad68f66a66b9daa/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/15/659808a179854cf79ea178b391b67951-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 第12集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ 659808a179854cf79ea178b391b67951/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/15/f46ae0c21a0a4b25948fdb7566824a19-1270.jpg", tvg-id="" group-title="【正在热播】13/30《花开时节》", 第13集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/11/9309ab81a54a4e84bddad067206bb768-1330.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第1集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9309ab81a54a4e84bddad067206bb768/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/12/aca286e825d74375b229ec3e71b63930-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第2集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/aca286e825d74375b229ec3e71b63930/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/12/7ffc7a681d7f4f11be5025a24f589aec-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第3集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7ffc7a681d7f4f11be5025a24f589aec/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/13/b2aca0b918e34a7da4eec768b1f8014a-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第4集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2aca0b918e34a7da4eec768b1f8014a/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/13/0a339a10eb5341de9736b39c78a16fec-2493.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第5集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0a339a10eb5341de9736b39c78a16fec/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/13/e5bd278dd62e418a8e8abf7e84fceeed-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第6集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e5bd278dd62e418a8e8abf7e84fceeed/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/13/62c710a910d543f79b2bcfee0617566c-2495.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第7集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/62c710a910d543f79b2bcfee0617566c/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/13/f0f17f6e83a3485bbc1fe260717bb8ba-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第8集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f0f17f6e83a3485bbc1fe260717bb8ba/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/14/7ed544bf3fb3429b84db86377b8204f6-2494.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第9集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7ed544bf3fb3429b84db86377b8204f6/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/14/1c8941eba8314c0d8a74ca09cdb39f25-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第10集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1c8941eba8314c0d8a74ca09cdb39f25/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/15/67df9082c74a4f80aad68f66a66b9daa-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第11集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/67df9082c74a4f80aad68f66a66b9daa/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/15/659808a179854cf79ea178b391b67951-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第12集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/659808a179854cf79ea178b391b67951/2000.m3u8
+ #EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/15/f46ae0c21a0a4b25948fdb7566824a19-1270.jpg",  group-title="【正在热播】《花开时节》13/30",  group-title="【正在热播】《花开时节》13/30",  《花开时节》 第13集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f46ae0c21a0a4b25948fdb7566824a19/2000.m3u8
 
 #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/04/3ce1c7f5c864409eae42fb4e533c12b5-1330.jpg", group-title="【正在热播】《可爱的中国》19/30", 《可爱的中国》 第1集
