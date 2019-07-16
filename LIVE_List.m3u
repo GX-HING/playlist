@@ -8,6 +8,45 @@ https://sp.new131.com/20190715/bRV9sHcp/index.m3u8
 #EXTINF:-1, tvg-logo="https://img.pic-imges.com/pic/upload/vod/2019-07/15631725511.jpg", tvg-id="" group-title="电影", 德云社岳云鹏相声专场上海站2019/HD中字
 https://56.com-t-56.com/20190714/23695_8be72474/index.m3u8
 
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-1HD
+http://219.232.160.161:5080/hls/pajaki89.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-2HD
+http://219.232.160.161:5080/hls/rrzmuhnm.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-3HD
+http://219.232.160.161:5080/hls/ahqmwz8a.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-4SD
+http://219.232.160.161:5080/hls/6x3exjmc.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-5HD
+http://219.232.160.161:5080/hls/fz5h64cq.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-5+HD
+http://219.232.160.161:5080/hls/6qrr3ik5.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-6HD
+http://219.232.160.161:5080/hls/gyrzqju5.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-8HD
+http://219.232.160.161:5080/hls/5kzu6s4r.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  CCTV-13SD
+http://219.232.160.161:5080/hls/uw78vz3f.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  深圳公共
+http://219.232.160.161:5080/hls/49r8htka.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  广东卫视HD
+http://219.232.160.161:5080/hls/2r8aaf9n.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  东方卫视HD
+http://219.232.160.161:5080/hls/k3ywhta4.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  浙江卫视HD
+http://219.232.160.161:5080/hls/sg4zckuw.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  天津卫视HD
+http://219.232.160.161:5080/hls/9qe8kz6b.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  深圳公共
+http://219.232.160.161:5080/hls/49r8htka.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  南方少儿
+http://219.232.160.161:5080/hls/k9j8ij3v.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  凤凰电影
+http://219.232.160.161:5080/hls/fdwypqk6.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  TVB翡翠台
+http://219.232.160.161:5080/hls/bycgekwh.m3u8
+#EXTINF:-1, tvg-logo="",  group-title="天威HLS",  TVB明珠台
+http://219.232.160.161:5080/hls/b2xajcu7.m3u8
+
 #EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  无线新闻
 http://hlslive2.ks-cdn.m1905.com/live/channelca87e0d9abd740e1a2f0ad0b5eda09c9.flv
 #EXTINF:-1, tvg-logo="",  group-title="KSCND港澳台",  翡翠台
