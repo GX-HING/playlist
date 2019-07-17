@@ -1,10 +1,11 @@
 #EXTM3U
+
+#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190712-1/64c64dae2b68f05361008a95910ac046.jpg", group-title="电影", 绝色营救 HD中字
+https://56.com-t-56.com/20190711/23660_9321cefb/index.m3u8
 #EXTINF:-1, tvg-logo="http://ce.caijizy.com/upload/vod/2019-04-23/15559980032.jpg", tvg-id="" group-title="电影", 疯狂的外星人
 https://dbx2.tyswmp.com/20190403/FimyjQYH/index.m3u8
 #EXTINF:-1, tvg-logo="https://tupian.tupianzy.com/pic/upload/vod/2019-01-16/201901161547644844.jpg", tvg-id="" group-title="电影", 蜘蛛侠：英雄远征[预告片]
-http://cn2.zuidadianying.com/20190116/ED2CDgBs/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.tudou1238.com/upload/vod/2019-07-15/201907151563155931.png", tvg-id="" group-title="电影",【2019】筑梦/大陆/剧情/国语/1080P
-https://sp.new131.com/20190715/bRV9sHcp/index.m3u8
+http://cn2.zuidadianying.com/20190116/ED2CDgBs/index.m3u8 
 #EXTINF:-1, tvg-logo="https://img.pic-imges.com/pic/upload/vod/2019-07/15631725511.jpg", tvg-id="" group-title="电影", 德云社岳云鹏相声专场上海站2019/HD中字
 https://56.com-t-56.com/20190714/23695_8be72474/index.m3u8
 
