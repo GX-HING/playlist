@@ -657,3 +657,40 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3d68ffecb74a4e8681
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7421c5a60d0049778f61aba0341317c1/2000.m3u8 
 #EXTINF:-1, tvg-logo="https://github.com/GX-HING/GSE_IPTV/raw/master/logo/CCTV_wafm.jpg", tvg-id="" group-title="我爱发明", 《我爱发明》 20190409 机甲变变变5
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d144b01802e84bd481e01e3bacb4aa37/2000.m3u8 
+
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/20b9351449c644ada2abe4de377917cb-130.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《武林群侠传》 表演：李勤勤 尤宪超 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/20b9351449c644ada2abe4de377917cb/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/02/05/55f7b158077a4738bd8133d8db032da6-250.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《欢笑合唱团》 表演：潘长江 吉米 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/55f7b158077a4738bd8133d8db032da6/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/02/05/f088ca60014b46d99b9429214ee77698-190.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《财神来了》 表演：明道 胡蝶 杨大鹏
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f088ca60014b46d99b9429214ee77698/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/e50a028fd831469991d4debe9d7b61f3-190.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《老来得“宠”》 表演：李琦 黄晓娟 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e50a028fd831469991d4debe9d7b61f3/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/02/05/cbf5d29c38bf4851a653e73bb13b5230-190.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《我的呆萌粉丝》 表演：吴克群 李丁 小葱花
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/cbf5d29c38bf4851a653e73bb13b5230/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/02/05/28f65a504c254e7292ea89091c56391d-310.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《装修新传》 表演：方琼 江涛 祖海 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/28f65a504c254e7292ea89091c56391d/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/02/05/b7d702acdf404e4fac809f4b2e40a8b9-50.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]开场表演《欢笑喜剧夜》
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7d702acdf404e4fac809f4b2e40a8b9/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/02/05/dfa6f1192e8c4523880d2a206913b4d1-250.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《那些年我们一起等过的春晚》 表演：邵峰 钟镇涛 金铭 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/dfa6f1192e8c4523880d2a206913b4d1/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/09db21825c6b4fdd8c6a4a33154c4dc7-190.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《带娃计中计》 表演：关凌 蒋小涵 炎亚纶 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/09db21825c6b4fdd8c6a4a33154c4dc7/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/02/05/2ed422e094fe4215a9c99e1aa907f3b0-370.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]《当我们老了》 表演：朱迅 尼格买提 杨帆 等
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2ed422e094fe4215a9c99e1aa907f3b0/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/02/05/c239f00846754bdfa04fe084578a3d86-88.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]潘长江与俄罗斯合唱团演绎别样《过河》
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c239f00846754bdfa04fe084578a3d86/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/02/05/91be330f73704671b043732db8238b63-99.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]明道总裁奇遇呆萌财神 大年初一喜气临门
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/91be330f73704671b043732db8238b63/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/02/05/99e00276a7b9494d8b28901624948aeb-97.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]两阿姨为爱狗争执不休 萌宠大秀绝技惊呆众人
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/99e00276a7b9494d8b28901624948aeb/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/335ae7bafb3f4af1849c58df0f14e379-88.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]吴克群李丁互下战书 为博小葱花欢心使出浑身解数
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/335ae7bafb3f4af1849c58df0f14e379/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/9ec3d7e514b14d1fb5860e0a5ede3ca4-98.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]方琼化身方大锤砸错墙 业主找上门讨说法
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/9ec3d7e514b14d1fb5860e0a5ede3ca4/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/02/05/f5502e18249641ceb962b2b50d3c885b-100.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]众明星重回大杂院 温情再现八十年代春节记忆
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/f5502e18249641ceb962b2b50d3c885b/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/02/05/700d2c6206dd4f8ca5f532f3f2b7d8aa-100.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]一辈子全套补习班齐了！蒋易带娃煞费苦心
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/700d2c6206dd4f8ca5f532f3f2b7d8aa/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/02/05/bfb05e2eb04b42938de3596f11634d55-92.jpg/2000.m3u8  group-title="《2019新春喜剧之夜》", [2019新春喜剧之夜]朱迅小尼杨帆上演夕阳红 老来相聚主持老年春晚
+	http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bfb05e2eb04b42938de3596f11634d55/2000.m3u8
