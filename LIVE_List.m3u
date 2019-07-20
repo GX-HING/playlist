@@ -902,3 +902,84 @@ http://mobilelive.gxtv.cn/live/nn_live1000/playlist.m3u8
 http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 #EXTINF:-1, group-title="特别",  广西国际
 http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV10
+http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV老故事
+http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数未知
+http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 江苏卫视
+http://hls-ott-zhibo.wasu.tv/live/139/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数游戏
+http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数动画
+http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 深圳卫视HD
+http://hls-ott-zhibo.wasu.tv/live/183/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV13
+http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV2HD
+http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV13
+http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 看看新闻HD
+http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数古装
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 聚鲨购物HD
+http://hls-ott-zhibo.wasu.tv/live/227/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数剧场
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数儿歌
+http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数游戏HD
+http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 独立鸡群HD
+http://hls-ott-zhibo.wasu.tv/live/238/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 浙江卫视HD
+http://hls-ott-zhibo.wasu.tv/live/246/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数游戏2HD
+http://hls-ott-zhibo.wasu.tv/live/249/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数美食HD
+http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数偶像HD
+http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数电视剧HD
+http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数爱情FHD
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数古装剧
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 国外电影HD
+http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数科幻HD
+http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 动作电影HD
+http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 国外电视剧HD
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 开心直播HD
+http://hls-ott-zhibo.wasu.tv/live/272/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", VSPN全电竞HD
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数纪实HD
+http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数时装
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 电影预告HD
+http://hls-ott-zhibo.wasu.tv/live/298/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数时装2HD
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数时尚HD
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 有象视频HD
+http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 国外时装HD
+http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 北京时装周HD
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 国外动作HD
+http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
