@@ -1,0 +1,53 @@
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/20/b14d47a784474dad851e3b1bd05271b5-2493.jpg"
+    },
+    "title": {
+      "text": "第26集",
+      "false，hidden
+    },
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b14d47a784474dad851e3b1bd05271b5"
+  },
+  {
+    "status": {
+      "text": "00:41:26"
+    },
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/20/15fb5776670a40dc93b56c0478151136-1270.jpg"
+    },
+    "title": {
+      "text": "第27集",
+      "false，hidden
+    },
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/15fb5776670a40dc93b56c0478151136"
+  },
+  {
+    "status": {
+      "text": "00:41:23"
+    },
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/21/00fd8ff2de9c40569267a5b708df6e9a-2493.jpg"
+    },
+    "title": {
+      "text": "第28集",
+      "false，hidden
+    },
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/00fd8ff2de9c40569267a5b708df6e9a"
+  }
+  
+  {
+      "src": "http://p1.img.cctvpic.com/fmspic/2019/07/20/fb62a5b31f8f46c58db72bce93cf9b4f-1210.jpg"
+    },
+    "title": {
+      "text": "第28集",
+      "false，hidden
+    },
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fb62a5b31f8f46c58db72bce93cf9b4f"
+  },
+  {
+    "status": {
+      "text": "00:41:23"
+    },
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/20/0d77ad3f2b5541a1bd0205eda45c4fec-1210.jpg"
+    },
+    "title": {
+      "text": "第29集",
+      "false，hidden
+    },
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d77ad3f2b5541a1bd0205eda45c4fec"
