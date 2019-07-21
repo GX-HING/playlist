@@ -33,7 +33,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225666/100001000000000600000000000915
 #EXTINF:-1, tvg-logo="", tvg-id="" group-title="广西联通IPTV", 广西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225666/10000100000000060000000000091590_0.smil
 
-#EXTINF:-1, tvg-logo="", tvg-id="" group-title="广西联通IPTV", CCTV-1高清
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV1" group-title="广西联通IPTV", CCTV-1高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225656/10000100000000060000000000091580_0.smil
 
 #EXTINF:-1, tvg-logo="", tvg-id="" group-title="广西联通IPTV", CCTV-1
