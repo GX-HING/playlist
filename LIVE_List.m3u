@@ -165,7 +165,7 @@ http://flv2.liveshow.lss-user.baidubce.com/live/abed2944351349318258276fe1e50299
 
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/NANNINGTV1/NANNINGTV1_140x140.png", tvg-id="" group-title="广西联通IPTV", 南宁新闻综合
 rtsp://103.251.96.15/PLTV/88888888/224/3221225643/10000100000000060000000000091567_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png" tvg-id="guangxi" group-title="广西联通IPTV", 广西卫视
+#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png" tvg-id="guangxi" group-title="广西联通IPTV", 广西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225695/10000100000000060000000000091620_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI2/GUANXI2_140x140.png" tvg-id="" group-title="广西联通IPTV", 广西综艺
 rtsp://103.251.96.15/PLTV/88888888/224/3221225641/10000100000000060000000000091565_0.smil
@@ -359,7 +359,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225783/100001000000000600000000007260
 rtsp://103.251.96.15/PLTV/88888888/224/3221225652/10000100000000060000000000091576_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png" tvg-id="" group-title="广西联通IPTV", IPTV5＋高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225754/10000100000000060000000000185501_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png" tvg-id="guangxi" group-title="广西联通IPTV", 广西卫视-高清
+#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png" tvg-id="guangxi" group-title="广西联通IPTV", 广西卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225666/10000100000000060000000000091590_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GDTV1/GDTV1_140x140.png" tvg-id="gdws" group-title="广西联通IPTV", 广东卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225681/10000100000000060000000000091605_0.smil
@@ -547,7 +547,7 @@ http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/dongnanstv/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", 广东卫视
 http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", 广西卫视
+#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="" tvg-id="" group-title="南宁联通", 广西卫视
 http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="南宁联通", 贵州卫视
 http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
