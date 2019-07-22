@@ -309,7 +309,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225736/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225725/10000100000000060000000000091651_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV9/SITV9_140x140.png",tvg-id="jisuqichehd", group-title="广西联通IPTV", 极速汽车
 rtsp://103.251.96.15/PLTV/88888888/224/3221225726/10000100000000060000000000091652_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV-YULE/SITV-YULE_140x140.png",tvg-id="meiliyinlehd", group-title="广西联通IPTV", 魅力音乐
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV-YULE/SITV-YULE_140x140.png",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力音乐
 rtsp://103.251.96.15/PLTV/88888888/224/3221225728/10000100000000060000000000091654_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV-FASHION/SITV-FASHION_140x140.png",tvg-id="shenghuoshishang", group-title="广西联通IPTV", 生活时尚
 rtsp://103.251.96.15/PLTV/88888888/224/3221225739/10000100000000060000000000091665_0.smil
@@ -325,13 +325,13 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225735/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225732/10000100000000060000000000091658_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV-MOVIE/SITV-MOVIE_140x140.png",tvg-id="wenguangshuzidianshi-dushijuchang", group-title="广西联通IPTV", 都市剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225738/10000100000000060000000000091664_0.smil
-#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/IPTVSEDH.jpg",tvg-id="", group-title="广西联通IPTV", 少儿动画
+#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/IPTVSEDH.jpg",tvg-id="NFCM-IPTVSEDH", group-title="广西联通IPTV", 少儿动画
 rtsp://103.251.96.15/PLTV/88888888/224/3221225720/10000100000000060000000000091645_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTVMLSS/IPTVMLSS_140x140.png",tvg-id="", group-title="广西联通IPTV", 魅力时尚
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTVMLSS/IPTVMLSS_140x140.png",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力时尚
 rtsp://103.251.96.15/PLTV/88888888/224/3221225633/10000100000000060000000000091557_0.smil
-#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/IPTVJDDY.jpg",tvg-id="", group-title="广西联通IPTV", 经典电影
+#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/IPTVJDDY.jpg",tvg-id="NFCM-IPTVJDDY", group-title="广西联通IPTV", 经典电影
 rtsp://103.251.96.15/PLTV/88888888/224/3221225724/10000100000000060000000000091650_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTVRBJC/IPTVRBJC_140x140.png",tvg-id="", group-title="广西联通IPTV", 热播剧场
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTVRBJC/IPTVRBJC_140x140.png",tvg-id="NFCM-IPTVRBJC", group-title="广西联通IPTV", 热播剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225723/10000100000000060000000000091649_0.smil
 #EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/IPTVSSZN.jpg",tvg-id="", group-title="广西联通IPTV", 收视指南
 rtsp://103.251.96.15/PLTV/88888888/224/3221225718/10000100000000060000000000091643_0.smil
@@ -692,11 +692,11 @@ https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 翡翠台HD
+#EXTINF:-1, tvg-logo="",tvg-id="TVB-TVB1", group-title="特别", 翡翠台HD
 http://ttzx.tv/hls/jade.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 翡翠台S-567
+#EXTINF:-1, tvg-logo="",tvg-id="TVB-TVB1", group-title="特别", 翡翠台S-567
 http://m.567it.com/jade.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="qimiao", group-title="特别", 香港开电视
+#EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", Sky NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
