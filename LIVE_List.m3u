@@ -140,7 +140,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225686/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225653/10000100000000060000000000091577_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/BTV10/BTV10_140x140.png",tvg-id="BTV-BTV10", group-title="广西联通IPTV", 卡酷动画
 rtsp://103.251.96.15/PLTV/88888888/224/3221225645/10000100000000060000000000091569_0.smil
-#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/GDTV7.jpg",tvg-id="gdtv-gdtv7", group-title="广西联通IPTV", 嘉佳卡通
+#EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/GDTV7.jpg",tvg-id="GDTV-GDTV7", group-title="广西联通IPTV", 嘉佳卡通
 rtsp://103.251.96.15/PLTV/88888888/224/3221225665/10000100000000060000000000091589_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTVYW/IPTVYW_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV野外
 rtsp://103.251.96.15/PLTV/88888888/224/3221225629/10000100000000060000000000087800_0.smil
@@ -567,7 +567,7 @@ http://nclive.grtn.cn/gjpd/sd/live.m3u8
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 广东少儿频道(TVS-5)
 http://nclive.grtn.cn/tvs5/sd/live.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 广东嘉佳卡通
+#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV7", group-title="特别", 广东嘉佳卡通
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
 #EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 广东高尔夫频道
 http://nclive.grtn.cn/grfpd/sd/live.m3u8
