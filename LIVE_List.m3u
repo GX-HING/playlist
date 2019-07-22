@@ -513,7 +513,7 @@ http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV15" group-title="南宁联通", CCTV14
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV15" group-title="南宁联通", CCTV15
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV16" group-title="南宁联通", CCTV15
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV19" group-title="南宁联通", CGTN
 http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
@@ -689,7 +689,7 @@ https://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8
 https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8 
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="CCTV-CCTV15" group-title="央视官网直播", CCTV-14少儿
 https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV15" group-title="央视官网直播", CCTV-15音乐
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16" group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台HD
