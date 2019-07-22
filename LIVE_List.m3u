@@ -199,17 +199,17 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225740/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225719/10000100000000060000000000091644_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV6/IPTV6_140x140.png" tvg-id="" group-title="广西联通IPTV", IPTV6＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225721/10000100000000060000000000091647_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png" tvg-id="cctv-7" group-title="广西联通IPTV", CCTV-7
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png" tvg-id="CCTV-CCTV7" group-title="广西联通IPTV", CCTV-7
 rtsp://103.251.96.15/PLTV/88888888/224/3221225742/10000100000000060000000000091668_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV8/IPTV8_140x140.png" tvg-id="" group-title="广西联通IPTV", IPTV8＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225632/10000100000000060000000000091556_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png" tvg-id="cctv-9" group-title="广西联通IPTV", CCTV-9
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png" tvg-id="CCTV-CCTV9" group-title="广西联通IPTV", CCTV-9
 rtsp://103.251.96.15/PLTV/88888888/224/3221225746/10000100000000060000000000091672_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png" tvg-id="cctv-10" group-title="广西联通IPTV", CCTV-10
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png" tvg-id="CCTV-CCTV10" group-title="广西联通IPTV", CCTV-10
 rtsp://103.251.96.15/PLTV/88888888/224/3221225743/10000100000000060000000000091669_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV11/CCTV11_140x140.png" tvg-id="cctv-11" group-title="广西联通IPTV", CCTV-11
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV11/CCTV11_140x140.png" tvg-id="CCTV-CCTV11" group-title="广西联通IPTV", CCTV-11
 rtsp://103.251.96.15/PLTV/88888888/224/3221225699/10000100000000060000000000091624_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png" tvg-id="cctv-12" group-title="广西联通IPTV", CCTV-12
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png" tvg-id="CCTV-CCTV12" group-title="广西联通IPTV", CCTV-12
 rtsp://103.251.96.15/PLTV/88888888/224/3221225749/10000100000000060000000000091675_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png" tvg-id="cctv-14" group-title="广西联通IPTV", CCTV-少儿
 rtsp://103.251.96.15/PLTV/88888888/224/3221225748/10000100000000060000000000091674_0.smil
@@ -217,7 +217,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225748/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225745/10000100000000060000000000091671_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV16/CCTV16_140x140.png" tvg-id="cctv-15" group-title="广西联通IPTV", CCTV-音乐
 rtsp://103.251.96.15/PLTV/88888888/224/3221225744/10000100000000060000000000091670_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV19/CCTV19_140x140.png" tvg-id="cctv9" group-title="广西联通IPTV", CGTN
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV19/CCTV19_140x140.png" tvg-id="CCTV-CCTV19" group-title="广西联通IPTV", CGTN
 rtsp://103.251.96.15/PLTV/88888888/224/3221225630/10000100000000060000000000091549_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/DONGFANG1/DONGFANG1_140x140.png" tvg-id="dfws" group-title="广西联通IPTV", 东方卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225676/10000100000000060000000000091600_0.smil
@@ -345,17 +345,17 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225656/100001000000000600000000000915
 rtsp://103.251.96.15/PLTV/88888888/224/3221225780/10000100000000060000000000726024_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HEBEI1/HEBEI1_140x140.png" tvg-id="hebeidianshitai-hbws" group-title="广西联通IPTV", 河北卫视高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225779/10000100000000060000000000726023_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png" tvg-id="cctv-7" group-title="广西联通IPTV", CCTV-7高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png" tvg-id="CCTV-CCTV7" group-title="广西联通IPTV", CCTV-7高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225784/10000100000000060000000000726028_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png" tvg-id="cctv-9" group-title="广西联通IPTV", CCTV-9高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png" tvg-id="CCTV-CCTV9" group-title="广西联通IPTV", CCTV-9高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225710/10000100000000060000000000091635_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png" tvg-id="cctv-10" group-title="广西联通IPTV", CCTV-10高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png" tvg-id="CCTV-CCTV10" group-title="广西联通IPTV", CCTV-10高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225782/10000100000000060000000000726026_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png" tvg-id="cctv-12" group-title="广西联通IPTV", CCTV-12高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png" tvg-id="CCTV-CCTV12" group-title="广西联通IPTV", CCTV-12高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225781/10000100000000060000000000726025_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png" tvg-id="cctv-14" group-title="广西联通IPTV", CCTV-14高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png" tvg-id="CCTV-CCTV15" group-title="广西联通IPTV", CCTV-14高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" tvg-id="cctv5+" group-title="广西联通IPTV", CCTV-5＋高清
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png" tvg-id="CCTV-CCTV5-plus" group-title="广西联通IPTV", CCTV-5＋高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225652/10000100000000060000000000091576_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png" tvg-id="" group-title="广西联通IPTV", IPTV5＋高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225754/10000100000000060000000000185501_0.smil
@@ -491,31 +491,31 @@ http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV4" group-title="南宁联通", CCTV4
 http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5/CCTV5_140x140.png" tvg-id="cctv-5" group-title="南宁联通", CCTV5HD
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5/CCTV5_140x140.png" tvg-id="CCTV-CCTV5" group-title="南宁联通", CCTV5HD
 http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv5+" group-title="南宁联通", CCTV5+HD
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV5-plus" group-title="南宁联通", CCTV5+HD
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-6" group-title="南宁联通", CCTV6HD
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV6" group-title="南宁联通", CCTV6HD
 http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-7" group-title="南宁联通", CCTV7
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV7" group-title="南宁联通", CCTV7
 http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1, tvg-logo="cctv-8" tvg-id="cctv-8" group-title="南宁联通", CCTV8HD
+#EXTINF:-1, tvg-logo="cctv-8" tvg-id="CCTV-CCTV8" group-title="南宁联通", CCTV8HD
 http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-9" group-title="南宁联通", CCTV9FHD
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV9" group-title="南宁联通", CCTV9FHD
 http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-10" group-title="南宁联通", CCTV10
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV10" group-title="南宁联通", CCTV10
 http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-11" group-title="南宁联通", CCTV11
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV11" group-title="南宁联通", CCTV11
 http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-12" group-title="南宁联通", CCTV12
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV12" group-title="南宁联通", CCTV12
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-13" group-title="南宁联通", CCTV13
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV13" group-title="南宁联通", CCTV13
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-14" group-title="南宁联通", CCTV14
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV15" group-title="南宁联通", CCTV14
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv-15" group-title="南宁联通", CCTV15
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV15" group-title="南宁联通", CCTV15
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1, tvg-logo="" tvg-id="cctv9" group-title="南宁联通", CGTN
+#EXTINF:-1, tvg-logo="" tvg-id="CCTV-CCTV19" group-title="南宁联通", CGTN
 http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
 #EXTINF:-1, tvg-logo="" tvg-id="hunandianshitai-hnws" group-title="南宁联通", 湖南卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
@@ -667,29 +667,29 @@ https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv4_2/index.m3u8
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8 
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", tvg-id="" group-title="央视官网直播", CCTV-4中文国际(美)
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="" group-title="央视官网直播", CCTV-5体育
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="CCTV-CCTV5" group-title="央视官网直播", CCTV-5体育
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8 
-#EXTINF:-1, tvg-logo="", tvg-id="" group-title="央视官网直播", CCTV-5+体育赛事
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV5-plus" group-title="央视官网直播", CCTV-5+体育赛事
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="" group-title="央视官网直播", CCTV-6电影
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="CCTV-CCTV6" group-title="央视官网直播", CCTV-6电影
 https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", tvg-id="" group-title="央视官网直播", CCTV-7军事农业
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", tvg-id="CCTV-CCTV7" group-title="央视官网直播", CCTV-7军事农业
 https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", tvg-id="" group-title="央视官网直播", CCTV-8电视剧
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", tvg-id="CCTV-CCTV8" group-title="央视官网直播", CCTV-8电视剧
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", tvg-id="" group-title="央视官网直播", CCTV-9纪录
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", tvg-id="CCTV-CCTV9" group-title="央视官网直播", CCTV-9纪录
 https://cctvalih5c.v.myalicdn.com/live/cctv8_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", tvg-id="" group-title="央视官网直播", CCTV-10科教
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", tvg-id="CCTV-CCTV10" group-title="央视官网直播", CCTV-10科教
 https://cctvalih5c.v.myalicdn.com/live/cctv10_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", tvg-id="" group-title="央视官网直播", CCTV-11戏曲
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", tvg-id="CCTV-CCTV11" group-title="央视官网直播", CCTV-11戏曲
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", tvg-id="" group-title="央视官网直播", CCTV-12社会与法
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", tvg-id="CCTV-CCTV12" group-title="央视官网直播", CCTV-12社会与法
 https://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", tvg-id="" group-title="央视官网直播", CCTV-13新闻
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", tvg-id="CCTV-CCTV13" group-title="央视官网直播", CCTV-13新闻
 https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="" group-title="央视官网直播", CCTV-14少儿
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="CCTV-CCTV15" group-title="央视官网直播", CCTV-14少儿
 https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="" group-title="央视官网直播", CCTV-15音乐
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV15" group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
 #EXTINF:-1, tvg-logo="" tvg-id="" group-title="特别", 翡翠台HD
@@ -905,7 +905,7 @@ http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 #EXTINF:-1, group-title="特别",  广西国际
 http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV10
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV10" group-title="华数", CCTV10
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
 #EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV老故事
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
@@ -921,11 +921,11 @@ http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/183/index.m3u8
 #EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 华数剧情
 http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV13
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV13" group-title="华数", CCTV13
 http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
 #EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV2" group-title="华数", CCTV2HD
 http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", CCTV13
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV13" group-title="华数", CCTV13
 http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
 #EXTINF:-1, tvg-logo="", tvg-id="" group-title="华数", 看看新闻HD
 http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
