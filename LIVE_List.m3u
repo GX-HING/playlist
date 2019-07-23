@@ -557,6 +557,8 @@ http://107.148.215.139:888/v/md.php?id=194393
 http://107.148.215.139:888/v/md.php?id=198626
 #EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 有线电视功夫台
+http://weblive.hebtv.com/live/0/index.m3u8
 
 #EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV10", group-title="华数", CCTV10
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
