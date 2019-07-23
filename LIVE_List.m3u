@@ -545,6 +545,16 @@ https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
+#EXTINF:-1, tvg-logo="",  group-title="特别", 翡翠台
+http://107.148.215.139:888/v/md.php?id=176116
+#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻
+http://107.148.215.139:888/v/inews.php?id=inews
+#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
+http://live.idc.idcml.cn/dl/mudu?t=1&id=178347&token=QQ1216154892
+#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
+http://107.148.215.139:888/v/md.php?id=194393
+#EXTINF:-1, tvg-logo="",  group-title="特别", 有线新闻
+http://107.148.215.139:888/v/md.php?id=198626
 #EXTINF:-1, tvg-logo="",tvg-id="TVB-TVB1", group-title="特别", 翡翠台HD
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:-1, tvg-logo="",tvg-id="TVB-TVB1", group-title="特别", 翡翠台S-567
