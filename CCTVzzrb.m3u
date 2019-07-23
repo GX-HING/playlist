@@ -6,6 +6,8 @@ http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b9fa40d07c60463c8451
  http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/e81169e3b0df4b15a3b819ee4fd86770/2000.m3u8
 #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/22/13e2720970ee48d88cd6cb3f9f2b0a66-1269.jpg", group-title="【正在热播】《在那桃花盛开的地方》[3/30]", 第3集
  http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/13e2720970ee48d88cd6cb3f9f2b0a66/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/22/13e2720970ee48d88cd6cb3f9f2b0a66-1269.jpg", group-title="【正在热播】《在那桃花盛开的地方》[3/30]", 第4集
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/23c62ab8e7c943bcac51d0878f598365/2000.m3u8
 
 #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/04/3ce1c7f5c864409eae42fb4e533c12b5-1330.jpg", group-title="【正在热播】《可爱的中国》[29/39]", 《可爱的中国》 第1集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ce1c7f5c864409eae42fb4e533c12b5/2000.m3u8
@@ -65,3 +67,7 @@ http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/529e354c40a74d93960
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fb62a5b31f8f46c58db72bce93cf9b4f/2000.m3u8
 #EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/20/0d77ad3f2b5541a1bd0205eda45c4fec-1210.jpg",  group-title="【正在热播】《可爱的中国》[29/39]", 《可爱的中国》第29集
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d77ad3f2b5541a1bd0205eda45c4fec/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/22/c74aec024cc94de9aab0b129a1348794-1210.jpg",  group-title="【正在热播】《可爱的中国》[29/39]", 《可爱的中国》第29集
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c74aec024cc94de9aab0b129a1348794/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/22/1f51b2895e6544159c0c19ff4ed66c8b-2485.jpg",  group-title="【正在热播】《可爱的中国》[29/39]", 《可爱的中国》第29集
+http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f51b2895e6544159c0c19ff4ed66c8b/2000.m3u8
