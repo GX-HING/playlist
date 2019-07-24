@@ -40,30 +40,38 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225688/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225689/10000100000000060000000000091613_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SITV-SPORTS/SITV-SPORTS_140x140.png",tvg-id="jinbaotiyuhd", group-title="广西联通IPTV", 劲爆体育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225734/10000100000000060000000000091660_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV1/CCTV1_140x140.png",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225656/10000100000000060000000000091580_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV1/CCTV1_140x140.png",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1
 rtsp://103.251.96.15/PLTV/88888888/224/3221225741/10000100000000060000000000091667_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV2/CCTV2_140x140.png",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225780/10000100000000060000000000726024_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV2/CCTV2_140x140.png",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2
 rtsp://103.251.96.15/PLTV/88888888/224/3221225639/10000100000000060000000000091563_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV3/IPTV3_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV3＋
-rtsp://103.251.96.15/PLTV/88888888/224/3221225722/10000100000000060000000000091648_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV4/CCTV4_140x140.png",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4
 rtsp://103.251.96.15/PLTV/88888888/224/3221225740/10000100000000060000000000091666_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋
-rtsp://103.251.96.15/PLTV/88888888/224/3221225719/10000100000000060000000000091644_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV6/IPTV6_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV6＋
-rtsp://103.251.96.15/PLTV/88888888/224/3221225721/10000100000000060000000000091647_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png",tvg-id="CCTV-CCTV5-plus", group-title="广西联通IPTV", CCTV-5＋高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225652/10000100000000060000000000091576_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225784/10000100000000060000000000726028_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7
 rtsp://103.251.96.15/PLTV/88888888/224/3221225742/10000100000000060000000000091668_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV8/IPTV8_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV8＋
-rtsp://103.251.96.15/PLTV/88888888/224/3221225632/10000100000000060000000000091556_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225710/10000100000000060000000000091635_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9
 rtsp://103.251.96.15/PLTV/88888888/224/3221225746/10000100000000060000000000091672_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225782/10000100000000060000000000726026_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10
 rtsp://103.251.96.15/PLTV/88888888/224/3221225743/10000100000000060000000000091669_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV11/CCTV11_140x140.png",tvg-id="CCTV-CCTV11", group-title="广西联通IPTV", CCTV-11
 rtsp://103.251.96.15/PLTV/88888888/224/3221225699/10000100000000060000000000091624_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225781/10000100000000060000000000726025_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12
 rtsp://103.251.96.15/PLTV/88888888/224/3221225749/10000100000000060000000000091675_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-14高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-少儿
 rtsp://103.251.96.15/PLTV/88888888/224/3221225748/10000100000000060000000000091674_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV13/CCTV13_140x140.png",tvg-id="cctv-13", group-title="广西联通IPTV", CCTV-新闻
@@ -71,7 +79,61 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225745/100001000000000600000000000916
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV16/CCTV16_140x140.png",tvg-id="cctv-15", group-title="广西联通IPTV", CCTV-音乐
 rtsp://103.251.96.15/PLTV/88888888/224/3221225744/10000100000000060000000000091670_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV19/CCTV19_140x140.png",tvg-id="CCTV-CCTV19", group-title="广西联通IPTV", CGTN
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HEBEI1/HEBEI1_140x140.png",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225779/10000100000000060000000000726023_0.smil
+#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png", group-title="广西联通IPTV", 广西卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225666/10000100000000060000000000091590_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GDTV1/GDTV1_140x140.png",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225681/10000100000000060000000000091605_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HUNANTV1/HUNANTV1_140x140.png",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225751/10000100000000060000000000091677_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/DONGFANG1/DONGFANG1_140x140.png",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225657/10000100000000060000000000091581_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/BTV1/BTV1_140x140.png",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225640/10000100000000060000000000091564_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/ZJTV1/ZJTV1_140x140.png",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225747/10000100000000060000000000091673_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/JSTV1/JSTV1_140x140.png",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225637/10000100000000060000000000091561_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SZTV1/SZTV1_140x140.png",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225750/10000100000000060000000000091676_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/TJTV1/TJTV1_140x140.png",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225664/10000100000000060000000000091588_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HUBEI1/HUBEI1_140x140.png",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225635/10000100000000060000000000091559_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SDTV1/SDTV1_140x140.png",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225663/10000100000000060000000000091587_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HLJTV1/HLJTV1_140x140.png",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225638/10000100000000060000000000091562_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUIZOUTV1/GUIZOUTV1_140x140.png",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225772/10000100000000060000000000496267_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV4/CCTV4_140x140.png",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225778/10000100000000060000000000726022_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/FJTV2/FJTV2_140x140.png",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225785/10000100000000060000000000726029_0.smil
+#EXTINF:-1, tvg-logo=",tvg-id="", group-title="广西联通IPTV", 熊猫频道高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225712/10000100000000060000000000091637_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HNETV3/HNETV3_140x140.png",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰纪实-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225760/10000100000000060000000000281377_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CETV1/CETV1_140x140.png",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育-高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225758/10000100000000060000000000281375_0.smil
+#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV3
+rtsp://103.251.96.15/PLTV/88888888/224/3221225709/10000100000000060000000000091634_0.smil
+#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV5
+rtsp://103.251.96.15/PLTV/88888888/224/3221225649/10000100000000060000000000091573_0.smil
+#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV6
+rtsp://103.251.96.15/PLTV/88888888/224/3221225662/10000100000000060000000000091586_0.smil
 rtsp://103.251.96.15/PLTV/88888888/224/3221225630/10000100000000060000000000091549_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV3/IPTV3_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV3＋
+rtsp://103.251.96.15/PLTV/88888888/224/3221225722/10000100000000060000000000091648_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋高清
+rtsp://103.251.96.15/PLTV/88888888/224/3221225754/10000100000000060000000000185501_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋
+rtsp://103.251.96.15/PLTV/88888888/224/3221225719/10000100000000060000000000091644_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV6/IPTV6_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV6＋
+rtsp://103.251.96.15/PLTV/88888888/224/3221225721/10000100000000060000000000091647_0.smil
+#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV8/IPTV8_140x140.png",tvg-id="", group-title="广西联通IPTV", IPTV8＋
+rtsp://103.251.96.15/PLTV/88888888/224/3221225632/10000100000000060000000000091556_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/DONGFANG1/DONGFANG1_140x140.png",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225676/10000100000000060000000000091600_0.smil
 #EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/BTV1/BTV1_140x140.png",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视
@@ -192,68 +254,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225718/100001000000000600000000000916
 rtsp://103.251.96.15/PLTV/88888888/224/3221225654/10000100000000060000000000091578_0.smil
 #EXTINF:-1, tvg-logo="http://static.tvmao.com/channel/logo/SDETV1.jpg",tvg-id="sdetv", group-title="广西联通IPTV", 山东教育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225762/10000100000000060000000000294600_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV1/CCTV1_140x140.png",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225656/10000100000000060000000000091580_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV2/CCTV2_140x140.png",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225780/10000100000000060000000000726024_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HEBEI1/HEBEI1_140x140.png",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225779/10000100000000060000000000726023_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV7/CCTV7_140x140.png",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225784/10000100000000060000000000726028_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV9/CCTV9_140x140.png",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225710/10000100000000060000000000091635_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV10/CCTV10_140x140.png",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225782/10000100000000060000000000726026_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV12/CCTV12_140x140.png",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225781/10000100000000060000000000726025_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV15/CCTV15_140x140.png",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-14高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV5-PLUS/CCTV5-PLUS_140x140.png",tvg-id="CCTV-CCTV5-plus", group-title="广西联通IPTV", CCTV-5＋高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225652/10000100000000060000000000091576_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/IPTV5/IPTV5_140x140.png",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225754/10000100000000060000000000185501_0.smil
-#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="http://pix.tvmao.com/images/logo/channel/GUANXI1/GUANXI1_140x140.png", group-title="广西联通IPTV", 广西卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225666/10000100000000060000000000091590_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GDTV1/GDTV1_140x140.png",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225681/10000100000000060000000000091605_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HUNANTV1/HUNANTV1_140x140.png",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225751/10000100000000060000000000091677_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/DONGFANG1/DONGFANG1_140x140.png",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225657/10000100000000060000000000091581_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/BTV1/BTV1_140x140.png",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225640/10000100000000060000000000091564_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/ZJTV1/ZJTV1_140x140.png",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225747/10000100000000060000000000091673_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/JSTV1/JSTV1_140x140.png",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225637/10000100000000060000000000091561_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SZTV1/SZTV1_140x140.png",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225750/10000100000000060000000000091676_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/TJTV1/TJTV1_140x140.png",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225664/10000100000000060000000000091588_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HUBEI1/HUBEI1_140x140.png",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225635/10000100000000060000000000091559_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/SDTV1/SDTV1_140x140.png",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225663/10000100000000060000000000091587_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HLJTV1/HLJTV1_140x140.png",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225638/10000100000000060000000000091562_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/GUIZOUTV1/GUIZOUTV1_140x140.png",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225772/10000100000000060000000000496267_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CCTV4/CCTV4_140x140.png",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225778/10000100000000060000000000726022_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/FJTV2/FJTV2_140x140.png",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225785/10000100000000060000000000726029_0.smil
-#EXTINF:-1, tvg-logo=",tvg-id="", group-title="广西联通IPTV", 熊猫频道高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225712/10000100000000060000000000091637_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/HNETV3/HNETV3_140x140.png",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰纪实-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225760/10000100000000060000000000281377_0.smil
-#EXTINF:-1, tvg-logo="http://pix.tvmao.com/images/logo/channel/CETV1/CETV1_140x140.png",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育-高清
-rtsp://103.251.96.15/PLTV/88888888/224/3221225758/10000100000000060000000000281375_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV3
-rtsp://103.251.96.15/PLTV/88888888/224/3221225709/10000100000000060000000000091634_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV5
-rtsp://103.251.96.15/PLTV/88888888/224/3221225649/10000100000000060000000000091573_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV6
-rtsp://103.251.96.15/PLTV/88888888/224/3221225662/10000100000000060000000000091586_0.smil
+
 
 #EXTINF:-1, group-title="广东电信", CCTV1高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
