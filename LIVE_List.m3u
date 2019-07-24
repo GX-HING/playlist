@@ -522,7 +522,7 @@ https://cctvtxyh5c.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8 
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="CCTV-CCTV5", group-title="央视官网直播", CCTV-5体育
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8 
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV5-plus", group-title="央视官网直播", CCTV-5+体育赛事
+#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV5-PLUS", group-title="央视官网直播", CCTV-5+体育赛事
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8 
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="CCTV-CCTV6", group-title="央视官网直播", CCTV-6电影
 https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8 
