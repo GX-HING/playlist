@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://img.tupian-zuida.com/pic/upload/vod/2019-07-24/201907241563955560.jpg", group-title="电影", ［2019］《别闹，天使大人》厉家兵、麦童、于谦
+http://yanzishan.shuhu-zuida.com/20190724/792_9d8538b2/1000k/hls/index.m3u8
 #EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190719-1/5100d4fb3b150312cf4c27c30aaf275a.jpg", group-title="电影", ［2019］少年当自强｜张晋 莫美林 陈国坤 樊少皇
 https://dbx5.tyswmp.com/20190718/u3W5VH5P/index.m3u8
 #EXTINF:-1, tvg-logo="http://img21.mtime.cn/mt/2011/09/05/151727.80926416_1280X720X2.jpg", tgroup-title="电影", ［2011］《突袭》伊科·乌艾斯/动作/HD高清/优酷正片
