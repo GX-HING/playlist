@@ -27,69 +27,81 @@ http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/36320bc5b8fa417e98b
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1563420598714.jpg", group-title="【正在热播】《在那桃花盛开的地方》[13/30]", 第13集
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c314f6cc16044bbeaab366504f98781b/2000.m3u8
 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第1集
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/04/3ce1c7f5c864409eae42fb4e533c12b5-1330.jpg", group-title="可爱的中国",  可爱的中国_第1集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ce1c7f5c864409eae42fb4e533c12b5/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第2集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/05/126b724e7b494be5af08989c9a316820-1210.jpg", group-title="可爱的中国",  可爱的中国_第2集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/126b724e7b494be5af08989c9a316820/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第3集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/05/dfd1f5757c51445180b6d1bedfbece9a-2484.jpg", group-title="可爱的中国",  可爱的中国_第3集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dfd1f5757c51445180b6d1bedfbece9a/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第4集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/07/f120afbb6cfb4823ac88ab8467bb4e30-1210.jpg", group-title="可爱的中国",  可爱的中国_第4集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f120afbb6cfb4823ac88ab8467bb4e30/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第5集
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/06/f445eaf3c9b440c09e4395e8347a3478-1210.jpg", group-title="可爱的中国",  可爱的中国_第5集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f445eaf3c9b440c09e4395e8347a3478/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第6集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/08/86ce5ed8c9d34b25abbcbf71f563cd92-1210.jpg", group-title="可爱的中国",  可爱的中国_第6集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/86ce5ed8c9d34b25abbcbf71f563cd92/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第7集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/08/0f05dc6b6ca94264aca00a8f3831a277-2486.jpg", group-title="可爱的中国",  可爱的中国_第7集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0f05dc6b6ca94264aca00a8f3831a277/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第8集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/09/22a8ca5c9ab6424eaf74855ea9d224e6-2486.jpg", group-title="可爱的中国",  可爱的中国_第8集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/22a8ca5c9ab6424eaf74855ea9d224e6/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第9集
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/09/548a4b76a16341b8a0b1e288d1648a98-2487.jpg", group-title="可爱的中国",  可爱的中国_第9集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/548a4b76a16341b8a0b1e288d1648a98/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第10集
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/10/7999bfa9dcfe4372aae892a2d9321a84-2486.jpg", group-title="可爱的中国",  可爱的中国_第10集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7999bfa9dcfe4372aae892a2d9321a84/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第11集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/10/c499044743fd44dd8879b59a49036bb4-2485.jpg", group-title="可爱的中国",  可爱的中国_第11集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c499044743fd44dd8879b59a49036bb4/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第12集
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/11/b49625d8c1034ee6bbb5a16efd19099c-2486.jpg", group-title="可爱的中国",  可爱的中国_第12集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b49625d8c1034ee6bbb5a16efd19099c/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第13集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/11/fb9a5baa58ce43eab8de2815c37b8d63-1210.jpg", group-title="可爱的中国",  可爱的中国_第13集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fb9a5baa58ce43eab8de2815c37b8d63/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第14集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/12/d81a763576ef4119bb2c4fa33cfe14c8-2487.jpg", group-title="可爱的中国",  可爱的中国_第14集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d81a763576ef4119bb2c4fa33cfe14c8/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第15集
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/12/4e6762509f434f38a464bc203b1c70c0-1210.jpg", group-title="可爱的中国",  可爱的中国_第15集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4e6762509f434f38a464bc203b1c70c0/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第16集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/13/36d677e20cb64ec1b1c775acadf4a1ae-1210.jpg", group-title="可爱的中国",  可爱的中国_第16集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/36d677e20cb64ec1b1c775acadf4a1ae/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第17集
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/13/0557a3b2e4b64850a683adceb2c35397-2486.jpg", group-title="可爱的中国",  可爱的中国_第17集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0557a3b2e4b64850a683adceb2c35397/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第18集
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/15/173ae40af35a407aa944d4efc31cf2c3-2485.jpg", group-title="可爱的中国",  可爱的中国_第18集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/173ae40af35a407aa944d4efc31cf2c3/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第19集
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/15/b500d8cd13cc4e5ea0aa63461b9356d9-1209.jpg", group-title="可爱的中国",  可爱的中国_第19集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b500d8cd13cc4e5ea0aa63461b9356d9/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第20集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/16/9ec1bc37805c4753a293c7143e7401f7-2485.jpg", group-title="可爱的中国",  可爱的中国_第20集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9ec1bc37805c4753a293c7143e7401f7/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第21集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/da5b10c667f04afd87d0341dda3ef70f/2000.m3u8  
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第22集
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/16/da5b10c667f04afd87d0341dda3ef70f-1210.jpg", group-title="可爱的中国",  可爱的中国_第21集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/da5b10c667f04afd87d0341dda3ef70f/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/17/8ef6fc6292ed401999a1aa259cd384fc-1210.jpg", group-title="可爱的中国",  可爱的中国_第22集
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8ef6fc6292ed401999a1aa259cd384fc/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第23集
-https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d129db4b877e44e0b710f3ea025fa95e/2000.m3u8  
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第24集
-http://asp.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/035da571cc944cc798760cae15f9dd8e/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第25集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5abe2727830b41a1a6f407c3c7f19995/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第26集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2cef5875047d4f9b8028e10c5f0ff983/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg", group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》 第27集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/529e354c40a74d939600fcc2fc44107a/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第28集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fb62a5b31f8f46c58db72bce93cf9b4f/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第29集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d77ad3f2b5541a1bd0205eda45c4fec/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第30集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c74aec024cc94de9aab0b129a1348794/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第31集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f51b2895e6544159c0c19ff4ed66c8b/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第32集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/50656507d9cf41dd8df66d0522dd4a45/2000.m3u8
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1562225739452.jpg",  group-title="【正在热播】《可爱的中国》[33/39]", 《可爱的中国》第33集
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b0802981833941979a9af56bf5e3a9a0/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/17/d129db4b877e44e0b710f3ea025fa95e-2486.jpg", group-title="可爱的中国",  可爱的中国_第23集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d129db4b877e44e0b710f3ea025fa95e/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/18/035da571cc944cc798760cae15f9dd8e-2487.jpg", group-title="可爱的中国",  可爱的中国_第24集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/035da571cc944cc798760cae15f9dd8e/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/18/5abe2727830b41a1a6f407c3c7f19995-2486.jpg", group-title="可爱的中国",  可爱的中国_第25集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5abe2727830b41a1a6f407c3c7f19995/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/19/2cef5875047d4f9b8028e10c5f0ff983-1210.jpg", group-title="可爱的中国",  可爱的中国_第26集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2cef5875047d4f9b8028e10c5f0ff983/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/19/529e354c40a74d939600fcc2fc44107a-1210.jpg", group-title="可爱的中国",  可爱的中国_第27集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/529e354c40a74d939600fcc2fc44107a/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/20/fb62a5b31f8f46c58db72bce93cf9b4f-1210.jpg", group-title="可爱的中国",  可爱的中国_第28集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fb62a5b31f8f46c58db72bce93cf9b4f/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/20/0d77ad3f2b5541a1bd0205eda45c4fec-1210.jpg", group-title="可爱的中国",  可爱的中国_第29集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0d77ad3f2b5541a1bd0205eda45c4fec/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/22/c74aec024cc94de9aab0b129a1348794-1210.jpg", group-title="可爱的中国",  可爱的中国_第30集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c74aec024cc94de9aab0b129a1348794/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/22/1f51b2895e6544159c0c19ff4ed66c8b-2485.jpg", group-title="可爱的中国",  可爱的中国_第31集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f51b2895e6544159c0c19ff4ed66c8b/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/23/50656507d9cf41dd8df66d0522dd4a45-1210.jpg", group-title="可爱的中国",  可爱的中国_第32集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/50656507d9cf41dd8df66d0522dd4a45/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/23/b0802981833941979a9af56bf5e3a9a0-1210.jpg", group-title="可爱的中国",  可爱的中国_第33集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b0802981833941979a9af56bf5e3a9a0/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/24/f0ae732d4161473589196e6cff58e06a-2487.jpg", group-title="可爱的中国",  可爱的中国_第34集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f0ae732d4161473589196e6cff58e06a/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/24/17ec4433c5994bd999cc52c885b69a2f-2487.jpg", group-title="可爱的中国",  可爱的中国_第35集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/17ec4433c5994bd999cc52c885b69a2f/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/25/b8f70a42f7284bccba348f1a6df9599e-1210.jpg", group-title="可爱的中国",  可爱的中国_第36集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b8f70a42f7284bccba348f1a6df9599e/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/25/4a979383533349d5806b0f8cf274c0f0-1210.jpg", group-title="可爱的中国",  可爱的中国_第37集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4a979383533349d5806b0f8cf274c0f0/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/26/84fbfc29c7c242aeb62e8a68e730a1ed-1210.jpg", group-title="可爱的中国",  可爱的中国_第38集
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/84fbfc29c7c242aeb62e8a68e730a1ed/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/26/da245bd335a74e61b32f7099b72f3210-2637.jpg", group-title="可爱的中国",  可爱的中国_第39集（大结局）
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/da245bd335a74e61b32f7099b72f3210/2000.m3u8
