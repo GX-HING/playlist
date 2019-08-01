@@ -1,4 +1,9 @@
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="TVB 翡翠台直播", 翡翠台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB 翡翠台直播",翡翠台
+http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB 翡翠台直播",翡翠台
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="",group-title="TVB 翡翠台直播",翡翠台
+http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP01
 https://jx22.178du.com/jx2223.php?do=down&id=027e4b11aace5820.mp4
@@ -8,7 +13,7 @@ https://jx22.178du.com/jx2223.php?do=down&id=9a59784ef2a00039.mp4
 https://jx22.178du.com/jx2223.php?do=down&id=d8d18cb3f96a6b56.mp4
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP04
 https://jx3.tv1box.com/jx2223.php?do=down&id=1fb1bc7ba5b9deb8.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP05
+#EXTINF:1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP05
 https://jx3.178du.com/jx2223.php?do=down&id=f8eb64c59cfa6a86.mp4
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP06
 https://jx3.hktvyb.com/jx2223.php?do=down&id=c61d83f1d40b89f3.mp4
