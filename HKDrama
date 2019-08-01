@@ -1,8 +1,8 @@
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB 翡翠台直播",翡翠台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="TVB 翡翠台直播",翡翠台
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="TVB 翡翠台直播",翡翠台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="TVB 翡翠台直播",翡翠台
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0 tvg-logo="",group-title="TVB 翡翠台直播",翡翠台
+#EXTINF:0 tvg-logo="", tvg-id="TVB-TVB1", group-title="TVB 翡翠台直播",翡翠台
 http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP01
