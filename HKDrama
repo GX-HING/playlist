@@ -5,6 +5,13 @@ http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="", tvg-id="TVB-TVB1", group-title="TVB 翡翠台直播",翡翠台
 http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="TVB 翡翠台直播",無線新聞台
+http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
+#EXTINF:0 tvg-logo="",group-title="TVB 翡翠台直播",無線新聞
+http://202.40.202.173:8000/main
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="TVB 翡翠台直播",無線新聞台
+http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
+
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP01
 https://jx22.178du.com/jx2223.php?do=down&id=027e4b11aace5820.mp4
 #EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【正在熱播】包青天再起風雲 粵語[9/30]", 包青天再起風雲_EP02
