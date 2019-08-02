@@ -1,4 +1,7 @@
 #EXTM3U
+
+######################## 央视 ###############################
+
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1564542652897.jpg",  group-title="【CCTV-8 19:30 正在热播】《兰桐花开》3/42", 电视剧频道黄金强档 带给您不一样的精彩
 http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b9fa40d07c60463c8451521b0df133c2/850.m3u8
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1564542652897.jpg",  group-title="【CCTV-8 19:30 正在热播】《兰桐花开》3/42", 兰桐花开_第1集
@@ -25,29 +28,29 @@ http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/179320a83481480b944
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/vms/image/1564133996165.jpg",  group-title="【CCTV-1 20:30 正在热播】《特赦1959》[8/30]", 特赦1959 第8集
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9cdc1de2781948c19c0b6dc3f75aeb8d/2000.m3u8
 
-#######################################################
+######################## 翡翠台 ###############################
 
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP01
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP01
 https://jx2.178du.com/jx2223.php?do=down&id=027e4b11aace5820.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP02
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP02
 https://jx2.178du.com/jx2223.php?do=down&id=9a59784ef2a00039.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP03
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP03
 https://jx2.178du.com/jx2223.php?do=down&id=d8d18cb3f96a6b56.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP04
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP04
 https://jx2.178du.com/jx2223.php?do=down&id=1fb1bc7ba5b9deb8.mp4
-#EXTINF:1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP05
+#EXTINF:1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP05
 https://jx3.178du.com/jx2223.php?do=down&id=f8eb64c59cfa6a86.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP06
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP06
 https://jx3.hktvyb.com/jx2223.php?do=down&id=c61d83f1d40b89f3.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP07
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP07
 https://jx3.hktvyb.com/jx2223.php?do=down&id=de018a0d3c265222.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP08
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP08
 https://jx3.hktvyb.com/jx2223.php?do=down&id=24cfffd8f9160cc6.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP09
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP09
 https://jx3.hktvyb.com/jx2223.php?do=down&id=afa86f9b8089da55.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP10｜720P
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP10｜720P
 https://download.cloud.189.cn/file/downloadFile.action?dt=51&expired=1564773971319&play=1&sk=3063eb55-1fdb-4b46-ac1f-44bfe5c98b92&ufi=6132222838241137&zyc=180&token=cloud14&sig=6ukFfqLcftYWgp1uvdp3gDEPumY%3D
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 粵語[10/30]", 包青天再起風雲_EP10｜1080P
+#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [10/30]", 包青天再起風雲_EP10｜1080P
 https://jx3.178du.com/jx2223.php?do=down&id=50625999a53ace89.mp4
 
 #EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》15/25", 十二傳說_EP01
@@ -82,3 +85,5 @@ https://jx3.hktvyb.com/jx2223.php?do=down&id=754f3f03d2557b25.mp4
 https://jx3.hktvyb.com/jx2223.php?do=down&id=b93418121e2da0f4.mp4
 #EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》15/25", 十二傳說_EP15
 https://jx3.hktvyb.com/jx2223.php?do=down&id=ead3710324c454e4.mp4
+
+######################## VIUTV ###############################
