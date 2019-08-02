@@ -2,13 +2,13 @@
 
 ############# 港澳台 ########################################################
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
+#EXTINF:0 翡翠台 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别"
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="",无线新闻台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",无线新闻台
 http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",无线新闻
 http://202.40.202.173:8000/main
@@ -16,7 +16,7 @@ http://202.40.202.173:8000/main
 http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 #EXTINF:-1, tvg-logo="",  group-title="特别", 翡翠台
 http://107.148.215.139:888/v/md.php?id=176116
-#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻
+#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻_720P
 http://107.148.215.139:888/v/inews.php?id=inews
 #EXTINF:0 tvg-logo="",group-title="测试频道",无线新闻
 http://202.40.202.173:8000/main
