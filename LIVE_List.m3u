@@ -1,21 +1,23 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190710-1/35c661236fd0b74e034d4175577258da.jpg", group-title="电影", ［2019］《复仇者联盟4：终局之战》美国 科幻 高清蓝光
-https://jx2.178du.com/jx2223.php?do=down&id=c9be281b0dbf535e.mp4
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190710-1/35c661236fd0b74e034d4175577258da.jpg", group-title="电影", ［2019］《复仇者联盟4：终局之战》美国 科幻
-https://jx3.hktvyb.com/jx2223.php?do=down&id=6c0aefa1621b9c1b.mp4
-#EXTINF:-1, tvg-logo="http://img21.mtime.cn/mt/2011/09/05/151727.80926416_1280X720X2.jpg", tgroup-title="电影", ［2011］《突袭》伊科·乌艾斯/动作/HD高清/优酷正片
-https://youku.com-a-youku.com/20190527/1003_ed17f1f9/index.m3u8
-#EXTINF:-1, tvg-logo="http://img31.mtime.cn/mt/2014/03/10/095928.83618735_1280X720X2.jpg", tgroup-title="电影", ［2014］《突袭2：暴徒》伊科·乌艾斯/动作/HD高清
-https://ifeng.com-l-ifeng.com/20180611/11599_14bcffce/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190417-10/bf5c882f68145571d249e3d6cfe0225e.jpg", tgroup-title="电影", ［2018］《突袭3》托尼·贾/动作/HD高清
-https://163.com-l-163.com/20181122/23960_07f19b58/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190712-1/64c64dae2b68f05361008a95910ac046.jpg", group-title="电影", 绝色营救 HD中字
-https://56.com-t-56.com/20190711/23660_9321cefb/index.m3u8
-#EXTINF:-1, tvg-logo="http://ce.caijizy.com/upload/vod/2019-04-23/15559980032.jpg", group-title="电影", 疯狂的
-#EXTINF:-1, tvg-logo="https://tupian.tupianzy.com/pic/upload/vod/2019-01-16/201901161547644844.jpg", group-title="电影", 蜘蛛侠：英雄远征[预告片]
-http://cn2.zuidadianying.com/20190116/ED2CDgBs/index.m3u8 
-#EXTINF:-1, tvg-logo="https://img.pic-imges.com/pic/upload/vod/2019-07/15631725511.jpg", group-title="电影", 德云社岳云鹏相声专场上海站2019/HD中字
-https://56.com-t-56.com/20190714/23695_8be72474/index.m3u8
+
+############# 港澳台 ########################################################
+
+#EXTINF:-1, tvg-logo="",  group-title="特别", 翡翠台
+http://107.148.215.139:888/v/md.php?id=176116
+#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻
+http://107.148.215.139:888/v/inews.php?id=inews
+#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
+http://live.idc.idcml.cn/dl/mudu?t=1&id=178347&token=QQ1216154892
+#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
+http://107.148.215.139:888/v/md.php?id=194393
+#EXTINF:-1, tvg-logo="",  group-title="特别", 有线新闻
+http://107.148.215.139:888/v/md.php?id=198626
+#EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 有线电视功夫台
+http://weblive.hebtv.com/live/0/index.m3u8
+
+############# 广西联通IPTV ########################################################
 
 #EXTINF:-1, tvg-logo="", tvg-id="", group-title="广西联通IPTV", 南宁新闻综合
 rtsp://103.251.96.15/PLTV/88888888/224/3221225643/10000100000000060000000000091567_0.smil
@@ -256,6 +258,7 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225654/100001000000000600000000000915
 #EXTINF:-1, tvg-logo="",tvg-id="sdetv", group-title="广西联通IPTV", 山东教育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225762/10000100000000060000000000294600_0.smil
 
+############# 广东电信 ########################################################
 
 #EXTINF:-1, group-title="广东电信", CCTV1高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -337,6 +340,8 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=08&FvSeid=1&Fsv_ctype=LI
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=09&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1, group-title="广东电信", 翡翠
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
+############# 南宁联通 ########################################################
 
 #EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="南宁联通", CCTV1HD
 http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
@@ -510,6 +515,8 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
 #EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv搏击
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
+############# 央视官方 ########################################################
+
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", tvg-id="CCTV-CCTV1", group-title="央视官网直播", CCTV-1综合
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8 
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", tvg-id="CCTV-CCTV2", group-title="央视官网直播", CCTV-2财经
@@ -547,20 +554,7 @@ https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
-#EXTINF:-1, tvg-logo="",  group-title="特别", 翡翠台
-http://107.148.215.139:888/v/md.php?id=176116
-#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻
-http://107.148.215.139:888/v/inews.php?id=inews
-#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
-http://live.idc.idcml.cn/dl/mudu?t=1&id=178347&token=QQ1216154892
-#EXTINF:-1, tvg-logo="",  group-title="特别", TVBJ2
-http://107.148.215.139:888/v/md.php?id=194393
-#EXTINF:-1, tvg-logo="",  group-title="特别", 有线新闻
-http://107.148.215.139:888/v/md.php?id=198626
-#EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="特别", 有线电视功夫台
-http://weblive.hebtv.com/live/0/index.m3u8
+############# 华数 ########################################################
 
 #EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV10", group-title="华数", CCTV10
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
