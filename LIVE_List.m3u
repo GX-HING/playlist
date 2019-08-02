@@ -20,7 +20,7 @@ http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
 http://107.148.215.139:888/v/inews.php?id=inews
 #EXTINF:0 tvg-logo="",group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
- tvg-logo="",  group-title="特别", 未知
+#EXTINF:-1, group-title="特别", 未知
 http://107.148.	215.139:888/v/md.php?id=194393
 #EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
