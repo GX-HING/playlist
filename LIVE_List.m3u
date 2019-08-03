@@ -25,6 +25,31 @@ http://107.148.	215.139:888/v/md.php?id=194393
 #EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="特别",TVB翡翠台
+http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="特别",TVB明珠台
+http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="特别",TVB J2台
+http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="特别",TVB J2台
+http://220.246.167.173:8080/8.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="特别",TVB财经咨询台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="特别",TVB财经咨询台
+http://220.246.167.173:8080/6.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",TVB无线新闻台
+http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",TVB无线新闻台
+http://220.246.167.173:8080/4.ts
+#EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="特别",TVB星河
+http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="特别",ViuTV
+http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="特别",ViuTV
+http://220.246.167.173:8080/0.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="特别",ViuTVsix
+http://220.246.167.173:8080/2.ts
+
 ############# 广西联通IPTV ########################################################
 
 #EXTINF:-1, tvg-logo="", tvg-id="", group-title="广西联通IPTV", 南宁新闻综合
