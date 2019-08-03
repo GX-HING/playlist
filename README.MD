@@ -1,5 +1,5 @@
 ## 本倉庫收集的所有線上直播流僅根據我個人喜好收集。
-[TG交流谷](http://t.me/GSE_IPTV)
+[Telegram](http://t.me/CN_HING)
 ## iOS 系統（iPhone、iPad） 
 推薦使用「[GSE IPTV](https://apps.apple.com/hk/app/gse-smart-iptv/id1028734023)」
 ## Android 系統
