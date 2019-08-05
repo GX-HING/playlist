@@ -2,6 +2,8 @@
 
 ############# 港澳台 ########################################################
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="特别",有線新聞台
+http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
