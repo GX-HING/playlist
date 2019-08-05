@@ -1,10 +1,17 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="特别",CCTV-4K
-http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm#http://v.wangjiuling.com/tv?sv=8bg0lmJtXJiboCWQ7J9m
-
+http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv4k.png",group-title="特别",CCTV-4K
+http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
 ############# 港澳台 ########################################################
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="特别",ViuTV
+http://220.246.167.173:8080/1.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="特别",ViuTVsix
+http://220.246.167.173:8080/3.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
+http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="特别",有線新聞台
 http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
