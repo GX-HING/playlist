@@ -6,37 +6,49 @@ http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_ori
 http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
 ############# 港澳台 ########################################################
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="特别",ViuTV
-http://220.246.167.173:8080/1.ts
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="特别",ViuTVsix
-http://220.246.167.173:8080/3.ts
+#EXTINF:-0, tvg-logo="", tvg-id="" group-title="特别", 有线新闻台 X
+http://c17.live.aliyuncdn.ottshopping.net/live/ttS-SReerfvvv.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="特别",有線新聞台
+http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="特别",TVB J2台
 http://c01.live.aliyuncdn.sharkselection.com/live/rreessjj22ggssllll.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="特别",有線新聞台
-http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
+
+#EXTINF:-0, tvg-logo="",  group-title="特别", 翡翠台
+http://107.148.215.139:888/v/md.php?id=176116
+#EXTINF:-0, tvg-logo="",  group-title="特别", 无线新闻_720P
+http://107.148.215.139:888/v/inews.php?id=inews
+
+#EXTINF:-0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png", tvg-id="" group-title="特别", 无线新闻[853*480]
+http://absentfriend.gearhostpreview.com/Just/For/Fun/xy.php?id=s_inews_22&s=212
+
+#EXTINF:-0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png", tvg-id="" group-title="特别", 无线新闻[1920*1080]
+http://bytedance.hdllive.ks-cdn.com/live/76325e14ef4d45068fe11c3ff64d3506.flv
+#EXTINF:-0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png", tvg-id="" group-title="特别", 无线新闻台
+http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
+
+#EXTINF:-0, tvg-logo="", tvg-id="" group-title="特别", 明珠台[1024*576]
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="特别",ViuTV
+http://220.246.167.173:8080/1.ts
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="特别",ViuTVsix
+http://220.246.167.173:8080/3.ts
 http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
 #EXTINF:0 tvg-logo="", tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
-#EXTINF:-1, tvg-logo="",  group-title="特别", 翡翠台
-http://107.148.215.139:888/v/md.php?id=176116
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",无线新闻台
 http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="特别",无线新闻台
-http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
-#EXTINF:-1, tvg-logo="",  group-title="特别", 无线新闻_720P
-http://107.148.215.139:888/v/inews.php?id=inews
 #EXTINF:0 tvg-logo="",group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
-#EXTINF:-1, group-title="特别", 未知
+#EXTINF:-0, group-title="特别", 未知
 http://107.148.	215.139:888/v/md.php?id=194393
-#EXTINF:-1, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
+#EXTINF:-0, tvg-logo="",tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="特别",TVB翡翠台
@@ -66,620 +78,620 @@ http://220.246.167.173:8080/2.ts
 
 ############# 广西联通IPTV ########################################################
 
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="广西联通IPTV", 南宁新闻综合
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="广西联通IPTV", 南宁新闻综合
 rtsp://103.251.96.15/PLTV/88888888/224/3221225643/10000100000000060000000000091567_0.smil
-#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="", group-title="广西联通IPTV", 广西卫视
+#EXTINF:-0, tvg-id="GUANXI-GUANXI1"tvg-logo="", group-title="广西联通IPTV", 广西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225695/10000100000000060000000000091620_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西综艺
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西综艺
 rtsp://103.251.96.15/PLTV/88888888/224/3221225641/10000100000000060000000000091565_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西都市
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西都市
 rtsp://103.251.96.15/PLTV/88888888/224/3221225631/10000100000000060000000000091550_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西新闻
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西新闻
 rtsp://103.251.96.15/PLTV/88888888/224/3221225642/10000100000000060000000000091566_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西公共
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西公共
 rtsp://103.251.96.15/PLTV/88888888/224/3221225684/10000100000000060000000000091608_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西影视
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西影视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225685/10000100000000060000000000091609_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西国际
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西国际
 rtsp://103.251.96.15/PLTV/88888888/224/3221225737/10000100000000060000000000091663_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西乐思购
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西乐思购
 rtsp://103.251.96.15/PLTV/88888888/224/3221225687/10000100000000060000000000091611_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西移动
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西移动
 rtsp://103.251.96.15/PLTV/88888888/224/3221225688/10000100000000060000000000091612_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西科教
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西科教
 rtsp://103.251.96.15/PLTV/88888888/224/3221225689/10000100000000060000000000091613_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="jinbaotiyuhd", group-title="广西联通IPTV", 劲爆体育
+#EXTINF:-0, tvg-logo="",tvg-id="jinbaotiyuhd", group-title="广西联通IPTV", 劲爆体育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225734/10000100000000060000000000091660_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225656/10000100000000060000000000091580_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="广西联通IPTV", CCTV-1
 rtsp://103.251.96.15/PLTV/88888888/224/3221225741/10000100000000060000000000091667_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225780/10000100000000060000000000726024_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="广西联通IPTV", CCTV-2
 rtsp://103.251.96.15/PLTV/88888888/224/3221225639/10000100000000060000000000091563_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4
 rtsp://103.251.96.15/PLTV/88888888/224/3221225740/10000100000000060000000000091666_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV5-plus", group-title="广西联通IPTV", CCTV-5＋高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV5-plus", group-title="广西联通IPTV", CCTV-5＋高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225652/10000100000000060000000000091576_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225784/10000100000000060000000000726028_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="广西联通IPTV", CCTV-7
 rtsp://103.251.96.15/PLTV/88888888/224/3221225742/10000100000000060000000000091668_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225710/10000100000000060000000000091635_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="广西联通IPTV", CCTV-9
 rtsp://103.251.96.15/PLTV/88888888/224/3221225746/10000100000000060000000000091672_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225782/10000100000000060000000000726026_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="广西联通IPTV", CCTV-10
 rtsp://103.251.96.15/PLTV/88888888/224/3221225743/10000100000000060000000000091669_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV11", group-title="广西联通IPTV", CCTV-11
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV11", group-title="广西联通IPTV", CCTV-11
 rtsp://103.251.96.15/PLTV/88888888/224/3221225699/10000100000000060000000000091624_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225781/10000100000000060000000000726025_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="广西联通IPTV", CCTV-12
 rtsp://103.251.96.15/PLTV/88888888/224/3221225749/10000100000000060000000000091675_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-14高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-14高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-少儿
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="广西联通IPTV", CCTV-少儿
 rtsp://103.251.96.15/PLTV/88888888/224/3221225748/10000100000000060000000000091674_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctv-13", group-title="广西联通IPTV", CCTV-新闻
+#EXTINF:-0, tvg-logo="",tvg-id="cctv-13", group-title="广西联通IPTV", CCTV-新闻
 rtsp://103.251.96.15/PLTV/88888888/224/3221225745/10000100000000060000000000091671_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctv-15", group-title="广西联通IPTV", CCTV-音乐
+#EXTINF:-0, tvg-logo="",tvg-id="cctv-15", group-title="广西联通IPTV", CCTV-音乐
 rtsp://103.251.96.15/PLTV/88888888/224/3221225744/10000100000000060000000000091670_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV19", group-title="广西联通IPTV", CGTN
-#EXTINF:-1, tvg-logo="",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV19", group-title="广西联通IPTV", CGTN
+#EXTINF:-0, tvg-logo="",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225779/10000100000000060000000000726023_0.smil
-#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="", group-title="广西联通IPTV", 广西卫视-高清
+#EXTINF:-0, tvg-id="GUANXI-GUANXI1"tvg-logo="", group-title="广西联通IPTV", 广西卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225666/10000100000000060000000000091590_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225681/10000100000000060000000000091605_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225751/10000100000000060000000000091677_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225657/10000100000000060000000000091581_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225640/10000100000000060000000000091564_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225747/10000100000000060000000000091673_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225637/10000100000000060000000000091561_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225750/10000100000000060000000000091676_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225664/10000100000000060000000000091588_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225635/10000100000000060000000000091559_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225663/10000100000000060000000000091587_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225638/10000100000000060000000000091562_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视高清
+#EXTINF:-0, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225772/10000100000000060000000000496267_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4高清
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="广西联通IPTV", CCTV-4高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225778/10000100000000060000000000726022_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视-高清
+#EXTINF:-0, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225785/10000100000000060000000000726029_0.smil
-#EXTINF:-1, tvg-logo=",tvg-id="", group-title="广西联通IPTV", 熊猫频道高清
+#EXTINF:-0, tvg-logo=",tvg-id="", group-title="广西联通IPTV", 熊猫频道高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225712/10000100000000060000000000091637_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰纪实-高清
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰纪实-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225760/10000100000000060000000000281377_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育-高清
+#EXTINF:-0, tvg-logo="",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育-高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225758/10000100000000060000000000281375_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV3
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV3
 rtsp://103.251.96.15/PLTV/88888888/224/3221225709/10000100000000060000000000091634_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV5
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV5
 rtsp://103.251.96.15/PLTV/88888888/224/3221225649/10000100000000060000000000091573_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV6
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 广西IPTV6
 rtsp://103.251.96.15/PLTV/88888888/224/3221225662/10000100000000060000000000091586_0.smil
 rtsp://103.251.96.15/PLTV/88888888/224/3221225630/10000100000000060000000000091549_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV3＋
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV3＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225722/10000100000000060000000000091648_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋高清
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋高清
 rtsp://103.251.96.15/PLTV/88888888/224/3221225754/10000100000000060000000000185501_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTV5", group-title="广西联通IPTV", IPTV5＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225719/10000100000000060000000000091644_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV6＋
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV6＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225721/10000100000000060000000000091647_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV8＋
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV8＋
 rtsp://103.251.96.15/PLTV/88888888/224/3221225632/10000100000000060000000000091556_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视
+#EXTINF:-0, tvg-logo="",tvg-id="dfws", group-title="广西联通IPTV", 东方卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225676/10000100000000060000000000091600_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="广西联通IPTV", 北京卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225673/10000100000000060000000000091597_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视
+#EXTINF:-0, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="广西联通IPTV", 浙江卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225671/10000100000000060000000000091595_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NANFANG-NANFANG2", group-title="广西联通IPTV", 南方卫视
+#EXTINF:-0, tvg-logo="",tvg-id="NANFANG-NANFANG2", group-title="广西联通IPTV", 南方卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225690/10000100000000060000000000091614_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="广西联通IPTV", 黑龙江卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225678/10000100000000060000000000091602_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="广西联通IPTV", 江苏卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225670/10000100000000060000000000091594_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="LNTV-LNTV1"tvg-id="liaoningdianshitai-lnws", group-title="广西联通IPTV", 辽宁卫视
+#EXTINF:-0, tvg-logo="",tvg-id="LNTV-LNTV1"tvg-id="liaoningdianshitai-lnws", group-title="广西联通IPTV", 辽宁卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225675/10000100000000060000000000091599_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视
+#EXTINF:-0, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="广西联通IPTV", 广东卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225692/10000100000000060000000000091617_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="AHTV-AHTV1"tvg-id="ahws", group-title="广西联通IPTV", 安徽卫视
+#EXTINF:-0, tvg-logo="",tvg-id="AHTV-AHTV1"tvg-id="ahws", group-title="广西联通IPTV", 安徽卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225677/10000100000000060000000000091601_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="JXTV-JXTV1", group-title="广西联通IPTV", 江西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JXTV-JXTV1", group-title="广西联通IPTV", 江西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225672/10000100000000060000000000091596_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="广西联通IPTV", 山东卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225705/10000100000000060000000000091630_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="广西联通IPTV", 湖南卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225644/10000100000000060000000000091568_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="广西联通IPTV", 湖北卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225706/10000100000000060000000000091631_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SHXITV-SHXITV1", group-title="广西联通IPTV", 陕西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SHXITV-SHXITV1", group-title="广西联通IPTV", 陕西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225696/10000100000000060000000000091621_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SCTV-SCTV1", group-title="广西联通IPTV", 四川卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SCTV-SCTV1", group-title="广西联通IPTV", 四川卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225674/10000100000000060000000000091598_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HNTV-HNTV1", group-title="广西联通IPTV", 河南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HNTV-HNTV1", group-title="广西联通IPTV", 河南卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225693/10000100000000060000000000091618_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="YNTV-YNTV1", group-title="广西联通IPTV", 云南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="YNTV-YNTV1", group-title="广西联通IPTV", 云南卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225669/10000100000000060000000000091593_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="XJTV-XJTV1", group-title="广西联通IPTV", 新疆卫视
+#EXTINF:-0, tvg-logo="",tvg-id="XJTV-XJTV1", group-title="广西联通IPTV", 新疆卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225703/10000100000000060000000000091628_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CCQTV-CCQTV1", group-title="广西联通IPTV", 重庆卫视
+#EXTINF:-0, tvg-logo="",tvg-id="CCQTV-CCQTV1", group-title="广西联通IPTV", 重庆卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225697/10000100000000060000000000091622_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="TCTC-TCTC1"tvg-id="satellite-tctc1", group-title="广西联通IPTV", 海南旅游卫视
+#EXTINF:-0, tvg-logo="",tvg-id="TCTC-TCTC1"tvg-id="satellite-tctc1", group-title="广西联通IPTV", 海南旅游卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225691/10000100000000060000000000091616_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SXTV-SXTV1", group-title="广西联通IPTV", 山西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SXTV-SXTV1", group-title="广西联通IPTV", 山西卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225702/10000100000000060000000000091627_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视
+#EXTINF:-0, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="广西联通IPTV", 天津卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225694/10000100000000060000000000091619_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视
+#EXTINF:-0, tvg-logo="",tvg-id="hebeidianshitai-hbws", group-title="广西联通IPTV", 河北卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225679/10000100000000060000000000091603_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育台
+#EXTINF:-0, tvg-logo="",tvg-id="CETV-CETV1", group-title="广西联通IPTV", 中国教育台
 rtsp://103.251.96.15/PLTV/88888888/224/3221225752/10000100000000060000000000091678_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="qinghai", group-title="广西联通IPTV", 青海卫视
+#EXTINF:-0, tvg-logo="",tvg-id="qinghai", group-title="广西联通IPTV", 青海卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225704/10000100000000060000000000091629_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NMGTV-NMGTV1", group-title="广西联通IPTV", 内蒙古卫视
+#EXTINF:-0, tvg-logo="",tvg-id="NMGTV-NMGTV1", group-title="广西联通IPTV", 内蒙古卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225700/10000100000000060000000000091625_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="XIZANGTV-XIZANGTV2", group-title="广西联通IPTV", 西藏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="XIZANGTV-XIZANGTV2", group-title="广西联通IPTV", 西藏卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225701/10000100000000060000000000091626_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视
+#EXTINF:-0, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="广西联通IPTV", 贵州卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225682/10000100000000060000000000091606_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="广西联通IPTV", 深圳卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225636/10000100000000060000000000091560_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="JILIN-JILIN1", group-title="广西联通IPTV", 吉林卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JILIN-JILIN1", group-title="广西联通IPTV", 吉林卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225698/10000100000000060000000000091623_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="广西联通IPTV", 东南卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225683/10000100000000060000000000091607_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NXTV-NXTV2", group-title="广西联通IPTV", 宁夏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="NXTV-NXTV2", group-title="广西联通IPTV", 宁夏卫视
 rtsp://103.251.96.15/PLTV/88888888/224/3221225686/10000100000000060000000000091610_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰卡通
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="广西联通IPTV", 金鹰卡通
 rtsp://103.251.96.15/PLTV/88888888/224/3221225653/10000100000000060000000000091577_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV10", group-title="广西联通IPTV", 卡酷动画
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV10", group-title="广西联通IPTV", 卡酷动画
 rtsp://103.251.96.15/PLTV/88888888/224/3221225645/10000100000000060000000000091569_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV7", group-title="广西联通IPTV", 嘉佳卡通
+#EXTINF:-0, tvg-logo="",tvg-id="GDTV-GDTV7", group-title="广西联通IPTV", 嘉佳卡通
 rtsp://103.251.96.15/PLTV/88888888/224/3221225665/10000100000000060000000000091589_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV野外
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV野外
 rtsp://103.251.96.15/PLTV/88888888/224/3221225629/10000100000000060000000000087800_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV法治
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV法治
 rtsp://103.251.96.15/PLTV/88888888/224/3221225708/10000100000000060000000000091633_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV相声小品
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV相声小品
 rtsp://103.251.96.15/PLTV/88888888/224/3221225707/10000100000000060000000000091632_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV谍战剧场
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", IPTV谍战剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225634/10000100000000060000000000091558_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="dongmanxiuchanghd", group-title="广西联通IPTV", 动漫秀场
+#EXTINF:-0, tvg-logo="",tvg-id="dongmanxiuchanghd", group-title="广西联通IPTV", 动漫秀场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225727/10000100000000060000000000091653_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="xingfucaihd", group-title="广西联通IPTV", 幸福彩
+#EXTINF:-0, tvg-logo="",tvg-id="xingfucaihd", group-title="广西联通IPTV", 幸福彩
 rtsp://103.251.96.15/PLTV/88888888/224/3221225730/10000100000000060000000000091656_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctvpayfee-qcxj", group-title="广西联通IPTV", 七彩戏剧
+#EXTINF:-0, tvg-logo="",tvg-id="cctvpayfee-qcxj", group-title="广西联通IPTV", 七彩戏剧
 rtsp://103.251.96.15/PLTV/88888888/224/3221225731/10000100000000060000000000091657_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="huanxiaojuchanghd", group-title="广西联通IPTV", 欢笑剧场
+#EXTINF:-0, tvg-logo="",tvg-id="huanxiaojuchanghd", group-title="广西联通IPTV", 欢笑剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225736/10000100000000060000000000091662_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="youxifengyunhd", group-title="广西联通IPTV", 游戏风云
+#EXTINF:-0, tvg-logo="",tvg-id="youxifengyunhd", group-title="广西联通IPTV", 游戏风云
 rtsp://103.251.96.15/PLTV/88888888/224/3221225725/10000100000000060000000000091651_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="jisuqichehd", group-title="广西联通IPTV", 极速汽车
+#EXTINF:-0, tvg-logo="",tvg-id="jisuqichehd", group-title="广西联通IPTV", 极速汽车
 rtsp://103.251.96.15/PLTV/88888888/224/3221225726/10000100000000060000000000091652_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力音乐
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力音乐
 rtsp://103.251.96.15/PLTV/88888888/224/3221225728/10000100000000060000000000091654_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="shenghuoshishang", group-title="广西联通IPTV", 生活时尚
+#EXTINF:-0, tvg-logo="",tvg-id="shenghuoshishang", group-title="广西联通IPTV", 生活时尚
 rtsp://103.251.96.15/PLTV/88888888/224/3221225739/10000100000000060000000000091665_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="dongfangcaijing", group-title="广西联通IPTV", 东方财经
+#EXTINF:-0, tvg-logo="",tvg-id="dongfangcaijing", group-title="广西联通IPTV", 东方财经
 rtsp://103.251.96.15/PLTV/88888888/224/3221225729/10000100000000060000000000091655_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctvqixiang", group-title="广西联通IPTV", 中国气象
+#EXTINF:-0, tvg-logo="",tvg-id="cctvqixiang", group-title="广西联通IPTV", 中国气象
 rtsp://103.251.96.15/PLTV/88888888/224/3221225667/10000100000000060000000000091591_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="quanjishihd", group-title="广西联通IPTV", 全纪实
+#EXTINF:-0, tvg-logo="",tvg-id="quanjishihd", group-title="广西联通IPTV", 全纪实
 rtsp://103.251.96.15/PLTV/88888888/224/3221225733/10000100000000060000000000091659_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctvpayfee-fztd", group-title="广西联通IPTV", 法治天地
+#EXTINF:-0, tvg-logo="",tvg-id="cctvpayfee-fztd", group-title="广西联通IPTV", 法治天地
 rtsp://103.251.96.15/PLTV/88888888/224/3221225735/10000100000000060000000000091661_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctvpayfee-jspd", group-title="广西联通IPTV", 金色频道
+#EXTINF:-0, tvg-logo="",tvg-id="cctvpayfee-jspd", group-title="广西联通IPTV", 金色频道
 rtsp://103.251.96.15/PLTV/88888888/224/3221225732/10000100000000060000000000091658_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="wenguangshuzidianshi-dushijuchang", group-title="广西联通IPTV", 都市剧场
+#EXTINF:-0, tvg-logo="",tvg-id="wenguangshuzidianshi-dushijuchang", group-title="广西联通IPTV", 都市剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225738/10000100000000060000000000091664_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTVSEDH", group-title="广西联通IPTV", 少儿动画
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTVSEDH", group-title="广西联通IPTV", 少儿动画
 rtsp://103.251.96.15/PLTV/88888888/224/3221225720/10000100000000060000000000091645_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力时尚
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTVMLSS", group-title="广西联通IPTV", 魅力时尚
 rtsp://103.251.96.15/PLTV/88888888/224/3221225633/10000100000000060000000000091557_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTVJDDY", group-title="广西联通IPTV", 经典电影
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTVJDDY", group-title="广西联通IPTV", 经典电影
 rtsp://103.251.96.15/PLTV/88888888/224/3221225724/10000100000000060000000000091650_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="NFCM-IPTVRBJC", group-title="广西联通IPTV", 热播剧场
+#EXTINF:-0, tvg-logo="",tvg-id="NFCM-IPTVRBJC", group-title="广西联通IPTV", 热播剧场
 rtsp://103.251.96.15/PLTV/88888888/224/3221225723/10000100000000060000000000091649_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 收视指南
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="广西联通IPTV", 收视指南
 rtsp://103.251.96.15/PLTV/88888888/224/3221225718/10000100000000060000000000091643_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="cctvpayfee-cctvpayfee35", group-title="广西联通IPTV", CCTV中学生
+#EXTINF:-0, tvg-logo="",tvg-id="cctvpayfee-cctvpayfee35", group-title="广西联通IPTV", CCTV中学生
 rtsp://103.251.96.15/PLTV/88888888/224/3221225654/10000100000000060000000000091578_0.smil
-#EXTINF:-1, tvg-logo="",tvg-id="sdetv", group-title="广西联通IPTV", 山东教育
+#EXTINF:-0, tvg-logo="",tvg-id="sdetv", group-title="广西联通IPTV", 山东教育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225762/10000100000000060000000000294600_0.smil
 
 ############# 广东电信 ########################################################
 
-#EXTINF:-1, group-title="广东电信", CCTV1高清
+#EXTINF:-0, group-title="广东电信", CCTV1高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=29&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV2高清
+#EXTINF:-0, group-title="广东电信", CCTV2高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV3高清
+#EXTINF:-0, group-title="广东电信", CCTV3高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV4高清
+#EXTINF:-0, group-title="广东电信", CCTV4高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=26&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV5高清
+#EXTINF:-0, group-title="广东电信", CCTV5高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=31&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV5+高清
+#EXTINF:-0, group-title="广东电信", CCTV5+高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=36&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV6高清
+#EXTINF:-0, group-title="广东电信", CCTV6高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=11&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV7高清
+#EXTINF:-0, group-title="广东电信", CCTV7高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=28&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV8高清
+#EXTINF:-0, group-title="广东电信", CCTV8高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=32&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV9高清
+#EXTINF:-0, group-title="广东电信", CCTV9高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=33&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV10高清
+#EXTINF:-0, group-title="广东电信", CCTV10高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=04&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV12高清
+#EXTINF:-0, group-title="广东电信", CCTV12高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=34&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", CCTV14高清
+#EXTINF:-0, group-title="广东电信", CCTV14高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=35&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 湖南卫视高清
+#EXTINF:-0, group-title="广东电信", 湖南卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=06&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 浙江卫视高清
+#EXTINF:-0, group-title="广东电信", 浙江卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=13&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 重庆卫视高清
+#EXTINF:-0, group-title="广东电信", 重庆卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=16&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 四川卫视高清
+#EXTINF:-0, group-title="广东电信", 四川卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=03&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 贵州卫视高清
+#EXTINF:-0, group-title="广东电信", 贵州卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=41&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 河北卫视高清
+#EXTINF:-0, group-title="广东电信", 河北卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=45&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 东南卫视高清
+#EXTINF:-0, group-title="广东电信", 东南卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=23&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 河南卫视高清
+#EXTINF:-0, group-title="广东电信", 河南卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 吉林卫视高清
+#EXTINF:-0, group-title="广东电信", 吉林卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 江西卫视高清
+#EXTINF:-0, group-title="广东电信", 江西卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=40&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 东方卫视高清
+#EXTINF:-0, group-title="广东电信", 东方卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=22&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 天津卫视高清
+#EXTINF:-0, group-title="广东电信", 天津卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=37&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 辽宁卫视高清
+#EXTINF:-0, group-title="广东电信", 辽宁卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=38&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 山东卫视高清
+#EXTINF:-0, group-title="广东电信", 山东卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 江苏卫视高清
+#EXTINF:-0, group-title="广东电信", 江苏卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=05&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 深圳卫视高清
+#EXTINF:-0, group-title="广东电信", 深圳卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=42&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 广东卫视高清
+#EXTINF:-0, group-title="广东电信", 广东卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=43&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 北京卫视高清
+#EXTINF:-0, group-title="广东电信", 北京卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=30&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 安徽卫视高清
+#EXTINF:-0, group-title="广东电信", 安徽卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=02&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 湖北卫视高清
+#EXTINF:-0, group-title="广东电信", 湖北卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=18&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 广州新闻高清
+#EXTINF:-0, group-title="广东电信", 广州新闻高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=00&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 广州影视高清
+#EXTINF:-0, group-title="广东电信", 广州影视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=46&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 广州高清
+#EXTINF:-0, group-title="广东电信", 广州高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=44&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 珠江电影
+#EXTINF:-0, group-title="广东电信", 珠江电影
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=07&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 珠江
+#EXTINF:-0, group-title="广东电信", 珠江
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=08&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", TVS2
+#EXTINF:-0, group-title="广东电信", TVS2
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=09&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1, group-title="广东电信", 翡翠
+#EXTINF:-0, group-title="广东电信", 翡翠
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 ############# 南宁联通 ########################################################
 
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="南宁联通", CCTV1HD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV1", group-title="南宁联通", CCTV1HD
 http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="南宁联通", CCTV2
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV2", group-title="南宁联通", CCTV2
 http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV3", group-title="南宁联通", CCTV3HD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV3", group-title="南宁联通", CCTV3HD
 http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="南宁联通", CCTV4
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV4", group-title="南宁联通", CCTV4
 http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV5", group-title="南宁联通", CCTV5HD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV5", group-title="南宁联通", CCTV5HD
 http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV5-plus", group-title="南宁联通", CCTV5+HD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV5-plus", group-title="南宁联通", CCTV5+HD
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV6", group-title="南宁联通", CCTV6HD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV6", group-title="南宁联通", CCTV6HD
 http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="南宁联通", CCTV7
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV7", group-title="南宁联通", CCTV7
 http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1, tvg-logo="cctv-8",tvg-id="CCTV-CCTV8", group-title="南宁联通", CCTV8HD
+#EXTINF:-0, tvg-logo="cctv-8",tvg-id="CCTV-CCTV8", group-title="南宁联通", CCTV8HD
 http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="南宁联通", CCTV9FHD
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV9", group-title="南宁联通", CCTV9FHD
 http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="南宁联通", CCTV10
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV10", group-title="南宁联通", CCTV10
 http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV11", group-title="南宁联通", CCTV11
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV11", group-title="南宁联通", CCTV11
 http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="南宁联通", CCTV12
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV12", group-title="南宁联通", CCTV12
 http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV13", group-title="南宁联通", CCTV13
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV13", group-title="南宁联通", CCTV13
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="南宁联通", CCTV14
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV15", group-title="南宁联通", CCTV14
 http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV16", group-title="南宁联通", CCTV15
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV16", group-title="南宁联通", CCTV15
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCTV-CCTV19", group-title="南宁联通", CGTN
+#EXTINF:-0, tvg-logo="",tvg-id="CCTV-CCTV19", group-title="南宁联通", CGTN
 http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="南宁联通", 湖南卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="hunandianshitai-hnws", group-title="南宁联通", 湖南卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="南宁联通", 江苏卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="jiangsudianshitai-jsws", group-title="南宁联通", 江苏卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="南宁联通", 浙江卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="zhejiangdianshitai-zjws", group-title="南宁联通", 浙江卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="dfws", group-title="南宁联通", 东方卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="dfws", group-title="南宁联通", 东方卫视HD
 http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="南宁联通", 广东卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="gdws", group-title="南宁联通", 广东卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="南宁联通", 深圳卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="szws", group-title="南宁联通", 深圳卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="南宁联通", 山东卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="sdws", group-title="南宁联通", 山东卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="南宁联通", 北京卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="BTV-1", group-title="南宁联通", 北京卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="南宁联通", 天津卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="南宁联通", 天津卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="南宁联通", 湖北卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="南宁联通", 湖北卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdhubeistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="南宁联通", 黑龙江卫视HD
+#EXTINF:-0, tvg-logo="",tvg-id="HLJTV-HLJTV1", group-title="南宁联通", 黑龙江卫视HD
 http://121.31.30.90:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CCQTV-CCQTV1", group-title="南宁联通", 重庆卫视
+#EXTINF:-0, tvg-logo="",tvg-id="CCQTV-CCQTV1", group-title="南宁联通", 重庆卫视
 http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 东方卫视
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 东方卫视
 http://121.31.30.90:8085/ysten-business/live/dongfangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="南宁联通", 东南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="FJTV-FJTV2", group-title="南宁联通", 东南卫视
 http://121.31.30.90:8085/ysten-business/live/dongnanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="", group-title="南宁联通", 广东卫视
+#EXTINF:-0, tvg-logo="",tvg-id="GDTV-GDTV1"tvg-id="", group-title="南宁联通", 广东卫视
 http://121.31.30.90:8085/ysten-business/live/guangdongstv/1.m3u8
-#EXTINF:-1, tvg-id="GUANXI-GUANXI1"tvg-logo="",tvg-id="", group-title="南宁联通", 广西卫视
+#EXTINF:-0, tvg-id="GUANXI-GUANXI1"tvg-logo="",tvg-id="", group-title="南宁联通", 广西卫视
 http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="南宁联通", 贵州卫视
+#EXTINF:-0, tvg-logo="",tvg-id="GUIZOUTV-GUIZOUTV1", group-title="南宁联通", 贵州卫视
 http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HNTV-HNTV1", group-title="南宁联通", 河南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HNTV-HNTV1", group-title="南宁联通", 河南卫视
 http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="", group-title="南宁联通", 湖南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV1"tvg-id="", group-title="南宁联通", 湖南卫视
 http://121.31.30.90:8085/ysten-business/live/hunanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="", group-title="南宁联通", 江苏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JSTV-JSTV1"tvg-id="", group-title="南宁联通", 江苏卫视
 http://121.31.30.90:8085/ysten-business/live/jiangsustv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="JXTV-JXTV1", group-title="南宁联通", 江西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JXTV-JXTV1", group-title="南宁联通", 江西卫视
 http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="NXTV-NXTV2", group-title="南宁联通", 宁夏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="NXTV-NXTV2", group-title="南宁联通", 宁夏卫视
 http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="", group-title="南宁联通", 山东卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SDTV-SDTV1"tvg-id="", group-title="南宁联通", 山东卫视
 http://121.31.30.90:8085/ysten-business/live/shandongstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SXTV-SXTV1", group-title="南宁联通", 山西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SXTV-SXTV1", group-title="南宁联通", 山西卫视
 http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="", group-title="南宁联通", 深圳卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SZTV-SZTV1"tvg-id="", group-title="南宁联通", 深圳卫视
 http://121.31.30.90:8085/ysten-business/live/shenzhenstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="", group-title="南宁联通", 浙江卫视
+#EXTINF:-0, tvg-logo="",tvg-id="ZJTV-ZJTV1"tvg-id="", group-title="南宁联通", 浙江卫视
 http://121.31.30.90:8085/ysten-business/live/zhejiangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="AHTV-AHTV1"tvg-id="", group-title="南宁联通", 安徽卫视
+#EXTINF:-0, tvg-logo="",tvg-id="AHTV-AHTV1"tvg-id="", group-title="南宁联通", 安徽卫视
 http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="", group-title="南宁联通", 北京卫视
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV1"tvg-id="", group-title="南宁联通", 北京卫视
 http://121.31.30.90:8085/ysten-business/live/beijingstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="GSTV-GSTV1", group-title="南宁联通", 甘肃卫视
+#EXTINF:-0, tvg-logo="",tvg-id="GSTV-GSTV1", group-title="南宁联通", 甘肃卫视
 http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 河北卫视
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 河北卫视
 http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="南宁联通", 湖北卫视
+#EXTINF:-0, tvg-logo="",tvg-id="HUBEI-HUBEI1", group-title="南宁联通", 湖北卫视
 http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="LNTV-LNTV1"tvg-id="", group-title="南宁联通", 辽宁卫视
+#EXTINF:-0, tvg-logo="",tvg-id="LNTV-LNTV1"tvg-id="", group-title="南宁联通", 辽宁卫视
 http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="NMGTV-NMGTV1", group-title="南宁联通", 内蒙古卫视
+#EXTINF:-0, tvg-logo="",tvg-id="NMGTV-NMGTV1", group-title="南宁联通", 内蒙古卫视
 http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 青海卫视
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 青海卫视
 http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SHXITV-SHXITV1", group-title="南宁联通", 陕西卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SHXITV-SHXITV1", group-title="南宁联通", 陕西卫视
 http://121.31.30.90:8085/ysten-business/live/shanxi1stv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SCTV-SCTV1", group-title="南宁联通", 四川卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SCTV-SCTV1", group-title="南宁联通", 四川卫视
 http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="南宁联通", 天津卫视
+#EXTINF:-0, tvg-logo="",tvg-id="TJTV-TJTV1", group-title="南宁联通", 天津卫视
 http://121.31.30.90:8085/ysten-business/live/tianjinstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="XJTV-XJTV1", group-title="南宁联通", 新疆卫视
+#EXTINF:-0, tvg-logo="",tvg-id="XJTV-XJTV1", group-title="南宁联通", 新疆卫视
 http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="YNTV-YNTV1", group-title="南宁联通", 云南卫视
+#EXTINF:-0, tvg-logo="",tvg-id="YNTV-YNTV1", group-title="南宁联通", 云南卫视
 http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 炫动卡通
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 炫动卡通
 http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="BTV-BTV10", group-title="南宁联通", 卡酷少儿
+#EXTINF:-0, tvg-logo="",tvg-id="BTV-BTV10", group-title="南宁联通", 卡酷少儿
 http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="XIZANGTV-XIZANGTV2", group-title="南宁联通", 西藏卫视
+#EXTINF:-0, tvg-logo="",tvg-id="XIZANGTV-XIZANGTV2", group-title="南宁联通", 西藏卫视
 http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="CETV-CETV1", group-title="南宁联通", 中国教育1
+#EXTINF:-0, tvg-logo="",tvg-id="CETV-CETV1", group-title="南宁联通", 中国教育1
 http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="南宁联通", 金鹰卡通
+#EXTINF:-0, tvg-logo="",tvg-id="HUNANTV-HUNANTV2", group-title="南宁联通", 金鹰卡通
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 山东教育
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 山东教育
 http://121.31.30.90:8085/ysten-business/live/shandongjy/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", 优漫卡通
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", 优漫卡通
 http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="JILIN-JILIN1", group-title="南宁联通", 吉林卫视
+#EXTINF:-0, tvg-logo="",tvg-id="JILIN-JILIN1", group-title="南宁联通", 吉林卫视
 http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="SCTV-KAMBA-TV", group-title="南宁联通", 康巴卫视
+#EXTINF:-0, tvg-logo="",tvg-id="SCTV-KAMBA-TV", group-title="南宁联通", 康巴卫视
 http://121.31.30.90:8085/ysten-business/live/kambatv/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品大剧HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品大剧HD
 http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品电影HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品电影HD
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品体育HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品体育HD
 http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv完美游戏
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv完美游戏
 http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv爱情喜剧
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv爱情喜剧
 http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv古装剧场
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv古装剧场
 http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv动作电影HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv动作电影HD
 http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv军旅剧场
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv军旅剧场
 http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv海外剧场
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv海外剧场
 http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv家庭剧场HHD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv家庭剧场HHD
 http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv动画王国HHD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv动画王国HHD
 http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv金牌综艺HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv金牌综艺HD
 http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv惊悚悬疑HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv惊悚悬疑HD
 http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品记录HHD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv精品记录HHD
 http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv明星大片HD
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv明星大片HD
 http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv军事频道
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv军事频道
 http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv农业致富
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv农业致富
 http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv潮妈辣婆
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv潮妈辣婆
 http://121.31.30.90:8085/ysten-business/live/cmlapo/1.m3u8newtv健康有约
 http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv中国功夫
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv中国功夫
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-gzkongfu/1.m3u8
-#EXTINF:-1, tvg-logo="",tvg-id="", group-title="南宁联通", newtv搏击
+#EXTINF:-0, tvg-logo="",tvg-id="", group-title="南宁联通", newtv搏击
 http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
 ############# 央视官方 ########################################################
 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", tvg-id="CCTV-CCTV1", group-title="央视官网直播", CCTV-1综合
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png", tvg-id="CCTV-CCTV1", group-title="央视官网直播", CCTV-1综合
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", tvg-id="CCTV-CCTV2", group-title="央视官网直播", CCTV-2财经
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png", tvg-id="CCTV-CCTV2", group-title="央视官网直播", CCTV-2财经
 https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", tvg-id="CCTV-CCTV3", group-title="央视官网直播", CCTV-3综艺
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png", tvg-id="CCTV-CCTV3", group-title="央视官网直播", CCTV-3综艺
 https://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586745032_233.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(亚)
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586745032_233.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(亚)
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv4_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586736612_798.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(欧)
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586736612_798.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(欧)
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(美)
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586730816_438.png", tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(美)
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="CCTV-CCTV5", group-title="央视官网直播", CCTV-5体育
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png", tvg-id="CCTV-CCTV5", group-title="央视官网直播", CCTV-5体育
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8 
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV5-PLUS", group-title="央视官网直播", CCTV-5+体育赛事
+#EXTINF:-0, tvg-logo="", tvg-id="CCTV-CCTV5-PLUS", group-title="央视官网直播", CCTV-5+体育赛事
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="CCTV-CCTV6", group-title="央视官网直播", CCTV-6电影
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png", tvg-id="CCTV-CCTV6", group-title="央视官网直播", CCTV-6电影
 https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", tvg-id="CCTV-CCTV7", group-title="央视官网直播", CCTV-7军事农业
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586695044_24.png", tvg-id="CCTV-CCTV7", group-title="央视官网直播", CCTV-7军事农业
 https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", tvg-id="CCTV-CCTV8", group-title="央视官网直播", CCTV-8电视剧
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png", tvg-id="CCTV-CCTV8", group-title="央视官网直播", CCTV-8电视剧
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", tvg-id="CCTV-CCTV9", group-title="央视官网直播", CCTV-9纪录
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png", tvg-id="CCTV-CCTV9", group-title="央视官网直播", CCTV-9纪录
 https://cctvalih5c.v.myalicdn.com/live/cctv8_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", tvg-id="CCTV-CCTV10", group-title="央视官网直播", CCTV-10科教
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png", tvg-id="CCTV-CCTV10", group-title="央视官网直播", CCTV-10科教
 https://cctvalih5c.v.myalicdn.com/live/cctv10_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", tvg-id="CCTV-CCTV11", group-title="央视官网直播", CCTV-11戏曲
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png", tvg-id="CCTV-CCTV11", group-title="央视官网直播", CCTV-11戏曲
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", tvg-id="CCTV-CCTV12", group-title="央视官网直播", CCTV-12社会与法
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png", tvg-id="CCTV-CCTV12", group-title="央视官网直播", CCTV-12社会与法
 https://cctvcnch5c.v.wscdns.com/live/cctv12_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", tvg-id="CCTV-CCTV13", group-title="央视官网直播", CCTV-13新闻
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png", tvg-id="CCTV-CCTV13", group-title="央视官网直播", CCTV-13新闻
 https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="CCTV-CCTV15", group-title="央视官网直播", CCTV-14少儿
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png", tvg-id="CCTV-CCTV15", group-title="央视官网直播", CCTV-14少儿
 https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8 
-#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
+#EXTINF:-0, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png", tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 
 ############# 华数 ########################################################
 
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV10", group-title="华数", CCTV10
+#EXTINF:-0, tvg-logo="", tvg-id="CCTV-CCTV10", group-title="华数", CCTV10
 http://hls-ott-zhibo.wasu.tv/live/128/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", CCTV老故事
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", CCTV老故事
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数未知
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数未知
 http://hls-ott-zhibo.wasu.tv/live/135/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="JSTV-JSTV1"tvg-id="", group-title="华数", 江苏卫视
+#EXTINF:-0, tvg-logo="", tvg-id="JSTV-JSTV1"tvg-id="", group-title="华数", 江苏卫视
 http://hls-ott-zhibo.wasu.tv/live/139/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数游戏
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数游戏
 http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数动画
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数动画
 http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="SZTV-SZTV1"tvg-id="", group-title="华数", 深圳卫视HD
+#EXTINF:-0, tvg-logo="", tvg-id="SZTV-SZTV1"tvg-id="", group-title="华数", 深圳卫视HD
 http://hls-ott-zhibo.wasu.tv/live/183/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数剧情
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数剧情
 http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV13", group-title="华数", CCTV13
+#EXTINF:-0, tvg-logo="", tvg-id="CCTV-CCTV13", group-title="华数", CCTV13
 http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV2", group-title="华数", CCTV2HD
+#EXTINF:-0, tvg-logo="", tvg-id="CCTV-CCTV2", group-title="华数", CCTV2HD
 http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="CCTV-CCTV13", group-title="华数", CCTV13
+#EXTINF:-0, tvg-logo="", tvg-id="CCTV-CCTV13", group-title="华数", CCTV13
 http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 看看新闻HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 看看新闻HD
 http://hls-ott-zhibo.wasu.tv/live/200/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数古装
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数古装
 http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 聚鲨购物HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 聚鲨购物HD
 http://hls-ott-zhibo.wasu.tv/live/227/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数剧场
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数剧场
 http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数儿歌
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数儿歌
 http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数游戏HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数游戏HD
 http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 独立鸡群HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 独立鸡群HD
 http://hls-ott-zhibo.wasu.tv/live/238/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="ZJTV-ZJTV1"tvg-id="", group-title="华数", 浙江卫视HD
+#EXTINF:-0, tvg-logo="", tvg-id="ZJTV-ZJTV1"tvg-id="", group-title="华数", 浙江卫视HD
 http://hls-ott-zhibo.wasu.tv/live/246/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数游戏2HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数游戏2HD
 http://hls-ott-zhibo.wasu.tv/live/249/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数美食HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数美食HD
 http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数偶像HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数偶像HD
 http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数电视剧HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数电视剧HD
 http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数爱情FHD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数爱情FHD
 http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数古装剧
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数古装剧
 http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 国外电影HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 国外电影HD
 http://hls-ott-zhibo.wasu.tv/live/264/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数科幻HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数科幻HD
 http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 动作电影HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 动作电影HD
 http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 国外电视剧HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 国外电视剧HD
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 开心直播HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 开心直播HD
 http://hls-ott-zhibo.wasu.tv/live/272/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", VSPN全电竞HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", VSPN全电竞HD
 http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数纪实HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数纪实HD
 http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数时装
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数时装
 http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 电影预告HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 电影预告HD
 http://hls-ott-zhibo.wasu.tv/live/298/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数时装2HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数时装2HD
 http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 华数时尚HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 华数时尚HD
 http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 有象视频HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 有象视频HD
 http://hls-ott-zhibo.wasu.tv/live/301/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 国外时装HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 国外时装HD
 http://hls-ott-zhibo.wasu.tv/live/302/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 北京时装周HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 北京时装周HD
 http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
-#EXTINF:-1, tvg-logo="", tvg-id="", group-title="华数", 国外动作HD
+#EXTINF:-0, tvg-logo="", tvg-id="", group-title="华数", 国外动作HD
 http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
