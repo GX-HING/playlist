@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0, group-title="特别", 有線新聞台 / 臨時
+http://104.233.205.110:12360/play.m3u8?token=S3hZC2yQRgxnx7bxpVVndgFs&tid=gt&id=31
 #EXTINF:0, group-title="特别", now新聞台 / 臨時
 http://104.233.205.110:12361/play.m3u8?token=3Fm6KNcB9pm%2FRSkSg9ES2KhD&tid=gt&id=16
 #EXTINF:0, group-title="特别",CCTV-4K
