@@ -1,5 +1,23 @@
 #EXTM3U
 
+############################# 致富经 ###############################################################################
+
+#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/09/2019080909200945978.jpg", group-title="CCTV17《致富经》", 《致富经》 20190808 南麂岛上的老人与海
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2c6200a543e4cddb32bf5733638d326/2000.m3u8
+#EXTINF:-1, tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080809011934487.jpg", group-title="CCTV17《致富经》", 《致富经》 20190807 磨难里开出财富花
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/62851cd68e374d8abf13419c1272b3b4/2000.m3u8
+#EXTINF:-1, tvg-logo="https://p1.img.cctvpic.com/photoworkspace/2019/08/07/2019080709575715614.jpg", group-title="CCTV17《致富经》", 《致富经》 20190806 爱琢磨的农妇 变害为财
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f9b3fa0729e1488098f7620e0a83028b/2000.m3u8
+#EXTINF:-1, tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2019/08/07/2019080710030072041.jpg", group-title="CCTV17《致富经》", 《致富经》 20190805 水果大叔的财富棋局
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/95f10edc27864ff1a572bf5ff9e86da2/2000.m3u8
+#EXTINF:-1, tvg-logo="https://p4.img.cctvpic.com/photoworkspace/2019/08/07/2019080710054417294.jpg", group-title="CCTV17《致富经》", 《致富经》 20190803 大巴山里的创业夫妻档
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/648dab0ec4704614b14cc74ede929be0/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/03/7539039638714faca67206535dabe906-1270.jpg", group-title="CCTV17《致富经》", 《致富经》 20190802 海归姑娘 农场当家
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7539039638714faca67206535dabe906/2000.m3u8
+#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/photoworkspace/2019/08/02/2019080211154178713.jpg", group-title="CCTV17《致富经》", 《致富经》 20190801 农家媳妇的牛财富
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ead3c260d764627b447e7fca12e446d/2000.m3u8
+############################################################################################################
+
 #EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/28/a6d695cf708643c4b992a3e0c061ac1d-1330.jpg", group-title="乐享汇", 《乐享汇》 20190728 降央卓玛演唱会
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a6d695cf708643c4b992a3e0c061ac1d/2000.m3u8
 #EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/26/2ef816dbe6584c4ab5364dc51762bdcc-3560.jpg", group-title="乐享汇", 《乐享汇》 20190725 “云上飞歌”演唱会
