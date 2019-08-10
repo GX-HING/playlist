@@ -6,75 +6,22 @@ http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_ori
 http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
 ############# 港澳台 ########################################################
 
-#EXTINF:0, tvg-id="", group-title="特别", 有线新闻台
-http://c17.live.aliyuncdn.ottshopping.net/live/ttS-SReerfvvv.m3u8
-#EXTINF:0, group-title="特别",有線新聞台
-http://c17.live.aliyuncdn.ottshopping.net/live/ttssreerfvvv.m3u8
 #EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台
 http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 #EXTINF:0, group-title="特别",TVB J2台
 http://c01.live.aliyuncdn.sharkselection.com/live/rreessjj22ggssllll.m3u8
-
 #EXTINF:0, group-title="特别", 翡翠台
 http://107.148.215.139:888/v/md.php?id=176116
 #EXTINF:0, group-title="特别", 无线新闻_720P
 http://107.148.215.139:888/v/inews.php?id=inews
-
-#EXTINF:0, tvg-id="", group-title="特别", 无线新闻[853*480]
-http://absentfriend.gearhostpreview.com/Just/For/Fun/xy.php?id=s_inews_22&s=212
-
-#EXTINF:0, tvg-id="", group-title="特别", 无线新闻[1920*1080]
-http://bytedance.hdllive.ks-cdn.com/live/76325e14ef4d45068fe11c3ff64d3506.flv
-#EXTINF:0, tvg-id="", group-title="特别", 无线新闻台
-http://bytedance.hdllive.ks-cdn.com/live/34de4d3fe19e4c53a3642b63d815acea.flv
-
 #EXTINF:0, tvg-id="", group-title="特别", 明珠台[1024*576]
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-
-#EXTINF:0, group-title="特别",ViuTV
-http://220.246.167.173:8080/1.ts
-#EXTINF:0, group-title="特别",ViuTVsix
-http://220.246.167.173:8080/3.ts
-http://v.wangjiuling.com/tv?sv=JAmspQfXeivRwn1O
-#EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台
-http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台
-http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8
-#EXTINF:0, group-title="特别",无线新闻台
-http://v.wangjiuling.com/tv?sv=d0DSyXFWzsdjmPyB
 #EXTINF:0, group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
 #EXTINF:0, group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
-#EXTINF:0, group-title="特别", 未知
-http://107.148.	215.139:888/v/md.php?id=194393
 #EXTINF:0, tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:0, group-title="特别",TVB翡翠台
-http://v.wangjiuling.com/tv?sv=9eMuvJCywCK9OEzz
-#EXTINF:0, group-title="特别",TVB明珠台
-http://v.wangjiuling.com/tv?sv=DPbIPycpOIExvPRb
-#EXTINF:0, group-title="特别",TVB J2台
-http://v.wangjiuling.com/tv?sv=zvVUqLi7AFVNxJKY
-#EXTINF:0, group-title="特别",TVB J2台
-http://220.246.167.173:8080/8.ts
-#EXTINF:0, group-title="特别",TVB财经咨询台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:0, group-title="特别",TVB财经咨询台
-http://220.246.167.173:8080/6.ts
-#EXTINF:0, group-title="特别",TVB无线新闻台
-http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
-#EXTINF:0, group-title="特别",TVB无线新闻台
-http://220.246.167.173:8080/4.ts
-#EXTINF:0, group-title="特别",TVB星河
-http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:0, group-title="特别",ViuTV
-http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
-#EXTINF:0, group-title="特别",ViuTV
-http://220.246.167.173:8080/0.ts
-#EXTINF:0, group-title="特别",ViuTVsix
-http://220.246.167.173:8080/2.ts
 
 ############# 广西联通IPTV ########################################################
 
