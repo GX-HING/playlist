@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, group-title="特别", NOW新闻/临时
+#EXTINF:0, group-title="特别", now新聞台 / 臨時
 http://104.233.205.110:12361/play.m3u8?token=3Fm6KNcB9pm%2FRSkSg9ES2KhD&tid=gt&id=16
 #EXTINF:0, group-title="特别",CCTV-4K
 http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm
