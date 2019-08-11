@@ -560,7 +560,7 @@ https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:0, tvg-id="CCTV-CCTV8", group-title="央视官网直播", CCTV-8电视剧
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV9", group-title="央视官网直播", CCTV-9纪录
-https://cctvalih5c.v.myalicdn.com/live/cctv8_2/index.m3u8 
+https://cctvalih5c.v.myalicdn.com/live/cctvjilu_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV10", group-title="央视官网直播", CCTV-10科教
 https://cctvalih5c.v.myalicdn.com/live/cctv10_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV11", group-title="央视官网直播", CCTV-11戏曲
