@@ -575,64 +575,6 @@ https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8
 https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV17", group-title="央视官网直播", CCTV-17农业农村
 https://cctvalih5c.v.myalicdn.com/live/cctv17_2/index.m3u8
-#EXTINF:0, tvg-id="BTV-BTV1", group-title="央视官网直播", 北京卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/btv1_2_hd.m3u8
-#EXTINF:0, tvg-id="TJTV-TJTV1", group-title="央视官网直播", 天津卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/tianjin_2_hd.m3u8
-#EXTINF:0, tvg-id="SHHAI-DONGFANG1", group-title="央视官网直播", 东方卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/dongfang_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 重庆卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/chongqing_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 河北卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/hebei_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 山西卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/shan1xi_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 辽宁卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/liaoning_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 吉林卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/jilin_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 黑龙江卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/heilongjiang_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 安徽卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/anhui_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 东南卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/dongnan_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 江西卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/jiangxi_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 山东卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/shandong_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 河南卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/henan_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 湖北卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/hubei_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 广东卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/guangdong_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 深圳卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/shenzhen_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 旅游卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/travel_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 四川卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/sichuan_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 贵州卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/guizhou_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 云南卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/yunnan_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 陕西卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/shan3xi_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 甘肃卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/gansu_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 青海卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/qinghai_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 内蒙古卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/neimenggu_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 广西卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/guangxi_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 西藏卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/xizang_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 宁夏卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/ningxia_2_hd.m3u8
-#EXTINF:0, tvg-id="", group-title="央视官网直播", 新疆卫视
-https://cctvtxyh5c.liveplay.myqcloud.com/live/xinjiang_2_hd.m3u8
 
 ############# 华数 ########################################################
 
