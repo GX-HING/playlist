@@ -6,6 +6,8 @@ http://c01.live.aliyuncdn.sharkselection.com/live/eeessssreeee333.m3u8
 http://ms003.happytv.com.tw/live/tkOUt44Lqw0lmxtC/index.m3u8
 #EXTINF:0, group-title="特别", 寰宇新聞2台
 http://ms003.happytv.com.tw/live/nCpZop9pHVU9Xin0/index.m3u8
+#EXTINF:0, group-title="特别", 有線新聞台
+http://bytedance.hlslive.ks-cdn.com/live/46c224dbc2f3d12b384cdcdd7be7b22d/index.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台 / 臨時
 http://104.233.205.110:12361/v/ks.m3u8?token=Fe9V/0x4YATFIQmkwOn7jZvv&id=ICABLENews
 #EXTINF:0, group-title="特别", now新聞台 / 臨時
