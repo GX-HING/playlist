@@ -18,6 +18,8 @@ http://CDN-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c2
 http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm
 #EXTINF:0, group-title="特别",CCTV-4K
 http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
+#EXTINF:0, group-title="特别",CCTV1 HD 香港版（无商业广告）
+http://pl7-hls.live.huajiao.com/live/adb5ac6d13a7815ce92fd867e82ae219/playlist.m3u8?type=encc
 ############# 港澳台 ########################################################
 
 #EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台
