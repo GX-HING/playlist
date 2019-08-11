@@ -13,6 +13,8 @@ http://104.233.205.110:12361/v/ks.m3u8?token=Fe9V/0x4YATFIQmkwOn7jZvv&id=ICABLEN
 #EXTINF:0, group-title="特别", now新聞台 / 臨時
 http://104.233.205.110:12362/v/ks.m3u8?token=FOJQ/xp6OAXFIQmkwOn7iZjr&id=now
 #EXTINF:0, group-title="特别",CCTV-4K
+http://CDN-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
+#EXTINF:0, group-title="特别",CCTV-4K
 http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm
 #EXTINF:0, group-title="特别",CCTV-4K
 http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
