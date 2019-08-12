@@ -3,9 +3,9 @@
 #EXTINF:0, group-title="特别", 有線新聞台
 http://bytedance.hlslive.ks-cdn.com/live/46c224dbc2f3d12b384cdcdd7be7b22d/index.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台 / 臨時
-http://104.233.205.110:12361/v/ks.m3u8?token=Fe9V/0x4YATFIQmkwOn7jZvv&id=ICABLENews
+http://104.233.205.110:12364/v/ks.m3u8?token=Se9VrE0rbgTFIQmkwef/gp3r&id=ICABLENews
 #EXTINF:0, group-title="特别", now新聞台 / 臨時
-http://104.233.205.110:12362/v/ks.m3u8?token=FOJQ/xp6OAXFIQmkwOn7iZjr&id=now
+http://104.233.205.110:12364/v/ks.m3u8?token=GLxVrE0paVLFIQmkwef/jJDu&id=now
 #EXTINF:0, group-title="特别",CCTV-4K
 http://CDN-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
 #EXTINF:0, group-title="特别",CCTV-4K
