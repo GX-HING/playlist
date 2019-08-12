@@ -1,6 +1,6 @@
 #EXTM3U
 
-############################# 致富经 ###############################################################################
+# 致富经
 	#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/09/2019080909200945978.jpg", group-title="CCTV17《致富经》", 《致富经》 20190808 南麂岛上的老人与海
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2c6200a543e4cddb32bf5733638d326/2000.m3u8
 	#EXTINF:-1, tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080809011934487.jpg", group-title="CCTV17《致富经》", 《致富经》 20190807 磨难里开出财富花
@@ -15,8 +15,17 @@
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/7539039638714faca67206535dabe906/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/photoworkspace/2019/08/02/2019080211154178713.jpg", group-title="CCTV17《致富经》", 《致富经》 20190801 农家媳妇的牛财富
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ead3c260d764627b447e7fca12e446d/2000.m3u8
-
-# 乐享汇 ###########################################################################################################
+# 乐享汇
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/09/48a1096649bb4a1fb59f6a15e79019ec-1750.jpg", group-title="乐享汇", 《乐享汇》 20190808 “逐乐追梦人”演唱会
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/48a1096649bb4a1fb59f6a15e79019ec/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/04/1356839c12de408db000ba2469ac2e8a-1330.jpg", group-title="乐享汇", 《乐享汇》 20190804 郭峰演唱会
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1356839c12de408db000ba2469ac2e8a/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/04/779a5c8ebed04971aa57e6f5b87dd0ce-1330.jpg", group-title="乐享汇", 《乐享汇》 20190804 扎西顿珠演唱会
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/779a5c8ebed04971aa57e6f5b87dd0ce/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/04/dbb841edd1cf42e7a13632642629e857-1330.jpg", group-title="乐享汇", 《乐享汇》 20190804 陈思思演唱会
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dbb841edd1cf42e7a13632642629e857/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/04/4cb3919a9bdb41a18ac27628d00b0c1e-2643.jpg", group-title="乐享汇", 《乐享汇》 20190804 云朵演唱会
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4cb3919a9bdb41a18ac27628d00b0c1e/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/28/a6d695cf708643c4b992a3e0c061ac1d-1330.jpg", group-title="乐享汇", 《乐享汇》 20190728 降央卓玛演唱会
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a6d695cf708643c4b992a3e0c061ac1d/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/26/2ef816dbe6584c4ab5364dc51762bdcc-3560.jpg", group-title="乐享汇", 《乐享汇》 20190725 “云上飞歌”演唱会
@@ -276,8 +285,29 @@
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4ffa4cb7659e4b29b98457fbc7a92e20/2000.m3u8 
 	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/18/1453091562128_172.jpg", group-title="今日说法", 《今日说法》 20190522 无人目击
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0b9c394388764fbb80c262d4264dc4f3/2000.m3u8 
-
 # 一线
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/11/2a9cba7a1a5b4818bf622519451b4e2d-1090.jpg", group-title="一线", 《一线》 20190811 百万盗窃案
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/2a9cba7a1a5b4818bf622519451b4e2d/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/10/596a5091c21841fd914eaa112e75318c-1090.jpg", group-title="一线", 《一线》 20190810 被叫停的葬礼
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/596a5091c21841fd914eaa112e75318c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/09/d9722a18afbf48548b70cd9db44c0666-1090.jpg", group-title="一线", 《一线》 20190809 迷途阳光·离家的人
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d9722a18afbf48548b70cd9db44c0666/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/08/82edb9113c954df0ac0320f72d62a38a-1090.jpg", group-title="一线", 《一线》 20190808 迷途阳光·心灵的回归
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/82edb9113c954df0ac0320f72d62a38a/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/07/37cac590579c4d78befab0be4e470127-1090.jpg", group-title="一线", 《一线》 20190807 迷途阳光·反转人生
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/37cac590579c4d78befab0be4e470127/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/06/06e06f342bd444c8975af911158d8e33-1090.jpg", group-title="一线", 《一线》 20190806 迷途阳光·一出“恶戏”
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/06e06f342bd444c8975af911158d8e33/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/05/b2d78490523848a99465ca768f7df202-1090.jpg", group-title="一线", 《一线》 20190805 迷途阳光·贩毒少年
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2d78490523848a99465ca768f7df202/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/04/eb73785c95de460f95b8ffcdf111c0da-2159.jpg", group-title="一线", 《一线》 20190804 妻子的谎言/追击尾随者
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/eb73785c95de460f95b8ffcdf111c0da/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/03/ec59ac6de0154be2a4d3e67cfad9839c-1090.jpg", group-title="一线", 《一线》 20190803 失踪的孩子
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ec59ac6de0154be2a4d3e67cfad9839c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/02/ef722a3cc59048e8988049ac0983b647-1090.jpg", group-title="一线", 《一线》 20190802 追查到底
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ef722a3cc59048e8988049ac0983b647/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/01/b743436ff1334abeb48a414b0c979ff0-1090.jpg", group-title="一线", 《一线》 20190801 还不完的借款
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b743436ff1334abeb48a414b0c979ff0/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/31/8389e2f9a31e4e9e88e29ac749e5491e-2159.jpg", group-title="一线", 《一线》 20190731 流言之祸/“考试中心”来电
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8389e2f9a31e4e9e88e29ac749e5491e/2000.m3u8 
 	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/30/937e27f4c5584443acc95484dc397ce6-2156.jpg", group-title="一线", 《一线》 20190730 对峙
@@ -473,6 +503,30 @@
 	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/14/1452738444590_425.jpg", group-title="一线", 《一线》 20190425 三登珠宝店的“情侣”/皇冠网店之争
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/459460e8f39243c68098d4e1786afdf6/2000.m3u8 
 # 热线12
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/12/4364a628e1f1438d9e09dcd46d71192d-1090.jpg", group-title="热线12", 《热线12》 20190812
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4364a628e1f1438d9e09dcd46d71192d/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/11/586ba62a1a7a4e8abcfd58a7cf553096-2158.jpg", group-title="热线12", 《热线12》 20190811 买来的“新娘”
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/586ba62a1a7a4e8abcfd58a7cf553096/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/10/6b2fda72b2cd4e02be3439ee7197e130-1090.jpg", group-title="热线12", 《热线12》 20190810
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6b2fda72b2cd4e02be3439ee7197e130/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/09/dc0b541ab4db4b2881a4fff9a69f0661-19.jpg", group-title="热线12", 《热线12》 20190807
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/dc0b541ab4db4b2881a4fff9a69f0661/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/09/41959e093edc474db8fd8aa4531c05da-2159.jpg", group-title="热线12", 《热线12》 20190809
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/41959e093edc474db8fd8aa4531c05da/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/08/09b37d94550f414fb93dda7d95ce3250-1091.jpg", group-title="热线12", 《热线12》 20190808
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/09b37d94550f414fb93dda7d95ce3250/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/06/259cc31198ab499f9ca454162c54e55f-1090.jpg", group-title="热线12", 《热线12》 20190806
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/259cc31198ab499f9ca454162c54e55f/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/05/6c3da1f4a72749b981ec04e44047b4ab-1090.jpg", group-title="热线12", 《热线12》 20190805
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/6c3da1f4a72749b981ec04e44047b4ab/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/04/02b3819e75bb4bce8a30feeee9477c6c-1090.jpg", group-title="热线12", 《热线12》 20190804 危险的交易
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/02b3819e75bb4bce8a30feeee9477c6c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/03/90140c84ec694c58bce56741992cb0fd-1090.jpg", group-title="热线12", 《热线12》 20190803
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/90140c84ec694c58bce56741992cb0fd/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/02/14026419dc3c4450b3ddedcbedbfe175-1091.jpg", group-title="热线12", 《热线12》 20190802
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/14026419dc3c4450b3ddedcbedbfe175/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/01/27d81d6e797542f18e05899d3ee4c400-730.jpg", group-title="热线12", 《热线12》 20190801
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/27d81d6e797542f18e05899d3ee4c400/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/31/3bb8f7586ada4f24b25b84a2ee7451de-1090.jpg", group-title="热线12", 《热线12》 20190731
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3bb8f7586ada4f24b25b84a2ee7451de/2000.m3u8 
 	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/30/2e96cd768b774ccebd3b0033ba980684-2157.jpg", group-title="热线12", 《热线12》 20190730
@@ -594,6 +648,28 @@
 	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2017/12/1/1512099598757_521.jpg", group-title="热线12", 《热线12》 20190601
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/905ad6c92ed444d88ffeb4469538d717/2000.m3u8 
 # 普法栏目剧 
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/11/89d6597a99d04d66b1a5056165caaa1c-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190811 爱的谎言·精编版（大结局）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/89d6597a99d04d66b1a5056165caaa1c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/10/5a401e5dc3fa4961b29a90bea23912d4-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190810 爱的谎言·精编版（七）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5a401e5dc3fa4961b29a90bea23912d4/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/09/5142a346b6944936ac5c94ca11b3d734-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190809 爱的谎言·精编版（六）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5142a346b6944936ac5c94ca11b3d734/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/09/24871ad7831f4142986cdc248c457487-1329.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190808 爱的谎言·精编版（五）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/24871ad7831f4142986cdc248c457487/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/07/5247c31a580642d48f9f739069bd2ce7-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190807 爱的谎言·精编版（四）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5247c31a580642d48f9f739069bd2ce7/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/07/4cf2c248185a4dbcaa726119bebf7513-1331.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190806 爱的谎言·精编版（三）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4cf2c248185a4dbcaa726119bebf7513/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/05/f8a4ee4b6c4f4c43a58f451f5911de82-2695.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190805 爱的谎言·精编版（二）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f8a4ee4b6c4f4c43a58f451f5911de82/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/04/c66c3b91a9ad497e94ca94ab6ff8bbc5-2658.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190804 爱的谎言·精编版（一）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/c66c3b91a9ad497e94ca94ab6ff8bbc5/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/03/1afd11bda262490290974838473d9ee7-2697.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190803 猎火·精编版（大结局）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1afd11bda262490290974838473d9ee7/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/03/0f14f20e88454cb18b6c9b45a93736df-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190802 猎火·精编版（二）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/0f14f20e88454cb18b6c9b45a93736df/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/01/a15f9d8664c446cd84a159144ff74b76-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190801 猎火·精编版（一）
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a15f9d8664c446cd84a159144ff74b76/2000.m3u8
 	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/28/3ab6d21d0e3947948acfa639908ec771-1330.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190728 三集迷你剧集·消失的新娘 大结局
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/3ab6d21d0e3947948acfa639908ec771/2000.m3u8 
 	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/27/4a6ea1a86a4c40ab8bf2279f9ec74289-2666.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190727 三集迷你剧集·消失的新娘 中集
@@ -699,6 +775,60 @@
 	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/photoAlbum/page/performance/img/2016/1/15/1452841413073_331.jpg", group-title="普法栏目剧", 《普法栏目剧》 20190530 迷你剧集·雨痕·完整版（上集）
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5c5ede6a69dd479aa995f01e7578a658/2000.m3u8 
 # 我爱发明
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/10/d2c6aaa2e29f424cb5a7568f86d36fdc-1450.jpg", group-title="我爱发明", 《我爱发明》 20190810 机械二重奏
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2c6aaa2e29f424cb5a7568f86d36fdc/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/08/09/244fb8462da9491b9b1fc56ea4f0fadc-2936.jpg", group-title="我爱发明", 《我爱发明》 20190809 磨锅进行时
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/244fb8462da9491b9b1fc56ea4f0fadc/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/08/08/77774adc790c43e0ac597ad4c26c0c74-1451.jpg", group-title="我爱发明", 《我爱发明》 20190808 羊腿欢乐烤
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/77774adc790c43e0ac597ad4c26c0c74/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/08/07/8e543c9cce7d4741a48deefc0a1ecb5b-1450.jpg", group-title="我爱发明", 《我爱发明》 20190807 桂皮美容师
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/8e543c9cce7d4741a48deefc0a1ecb5b/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/07/045e823c3566481b9ec729a54356c38f-1451.jpg", group-title="我爱发明", 《我爱发明》 20190806 智慧双车
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/045e823c3566481b9ec729a54356c38f/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/03/076a3bd0ecd34b0b9da037afd25f7e9a-1450.jpg", group-title="我爱发明", 《我爱发明》 20190803 快手摘草莓
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/076a3bd0ecd34b0b9da037afd25f7e9a/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/08/02/4511ae6c44784ee1a7a501aae722a5fa-1450.jpg", group-title="我爱发明", 《我爱发明》 20190802 创意连连看10
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/4511ae6c44784ee1a7a501aae722a5fa/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/08/01/56beb2de788e4b439e38846a915fb33d-1450.jpg", group-title="我爱发明", 《我爱发明》 20190801 创意连连看9
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/56beb2de788e4b439e38846a915fb33d/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/31/ec301367469a4eeeab798e30b18dbf9c-2924.jpg", group-title="我爱发明", 《我爱发明》 20190731 创意连连看8
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ec301367469a4eeeab798e30b18dbf9c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/30/a1c45f5f67724b2db808ff9aa0b7a2d6-1450.jpg", group-title="我爱发明", 《我爱发明》 20190730 创意连连看7
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a1c45f5f67724b2db808ff9aa0b7a2d6/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/28/1f034d73758a4d549eba7f50c67ca444-2935.jpg", group-title="我爱发明", 《我爱发明》 20190728 快乐农田3
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/1f034d73758a4d549eba7f50c67ca444/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/27/cf244de7ec3b404db9bf66471959c2a0-1450.jpg", group-title="我爱发明", 《我爱发明》 20190727 创意连连看6
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cf244de7ec3b404db9bf66471959c2a0/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/26/9794ee1baa0545a2a28d18e1be5de079-2923.jpg", group-title="我爱发明", 《我爱发明》 20190726 创意连连看5
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9794ee1baa0545a2a28d18e1be5de079/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/25/461c20d7cfbf4652a60cfa16c40a687e-2929.jpg", group-title="我爱发明", 《我爱发明》 20190725 创意连连看4
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/461c20d7cfbf4652a60cfa16c40a687e/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/24/cc28dce82d824dedaf0ffb1f788e330d-1450.jpg", group-title="我爱发明", 《我爱发明》 20190724 创意连连看3
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/cc28dce82d824dedaf0ffb1f788e330d/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/23/35b95bc6242f443980505797a8ee9c4d-1450.jpg", group-title="我爱发明", 《我爱发明》 20190723 创意连连看2
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/35b95bc6242f443980505797a8ee9c4d/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/22/d7a28b8527534f159e44410c8e02710c-1450.jpg", group-title="我爱发明", 《我爱发明》 20190722 快乐农田2
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d7a28b8527534f159e44410c8e02710c/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/22/092b9eead9eb40b9b4094ecd5ab4731a-2923.jpg", group-title="我爱发明", 《我爱发明》 20190721 快乐农田1
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/092b9eead9eb40b9b4094ecd5ab4731a/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/20/5d7695bc2b9c444dad755375d1f42449-1450.jpg", group-title="我爱发明", 《我爱发明》 20190720 探花取粉
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/5d7695bc2b9c444dad755375d1f42449/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/19/fc3546ab9546436d85ca238fd2e0c5d5-1450.jpg", group-title="我爱发明", 《我爱发明》 20190719 沟渠美容师
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fc3546ab9546436d85ca238fd2e0c5d5/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/07/18/f4acac692d914dd5b987e184a65ed759-2923.jpg", group-title="我爱发明", 《我爱发明》 20190718 施工有道
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f4acac692d914dd5b987e184a65ed759/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p4.img.cctvpic.com/fmspic/2019/07/17/a9dfcfd2c18f46aaa4e4b96448300199-1450.jpg", group-title="我爱发明", 《我爱发明》 20190717 神奇井盖
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/a9dfcfd2c18f46aaa4e4b96448300199/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/16/de16e9629d304d58833027716fe632a1-1450.jpg", group-title="我爱发明", 《我爱发明》 20190716 快刀刻木
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/de16e9629d304d58833027716fe632a1/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/16/93fd4092790243eab3d7a8c0b11c5ca1-1450.jpg", group-title="我爱发明", 《我爱发明》 20190715 欢乐垂钓3
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/93fd4092790243eab3d7a8c0b11c5ca1/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p3.img.cctvpic.com/fmspic/2019/07/15/ccd7a9ab42f247b6ac3cc1552fcfaeb7-1450.jpg", group-title="我爱发明", 《我爱发明》 20190714 欢乐垂钓2
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/ccd7a9ab42f247b6ac3cc1552fcfaeb7/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p1.img.cctvpic.com/fmspic/2019/07/13/85952acfbdb845cb8088fae6e4d1c866-2923.jpg", group-title="我爱发明", 《我爱发明》 20190713 创意连连看1
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/85952acfbdb845cb8088fae6e4d1c866/2000.m3u8
+	#EXTINF:-1, tvg-logo="http://p5.img.cctvpic.com/fmspic/2019/07/12/291ed490b2ab4c709e2b29569f62389b-2909.jpg", group-title="我爱发明", 《我爱发明》 20190712 让虾线飞
+	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/291ed490b2ab4c709e2b29569f62389b/2000.m3u8
 	#EXTINF:-1, tvg-logo="https://github.com/GX-HING/GSE_IPTV/raw/master/logo/CCTV_wafm.jpg", group-title="我爱发明", 《我爱发明》 20190710 智慧农田8
 	https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/eb53a9f778d84da69878dd3a3205af32/2000.m3u8 
 	#EXTINF:-1, tvg-logo="https://github.com/GX-HING/GSE_IPTV/raw/master/logo/CCTV_wafm.jpg", group-title="我爱发明", 《我爱发明》 20190709 智慧农田7
