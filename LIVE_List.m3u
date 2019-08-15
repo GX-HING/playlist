@@ -21,8 +21,8 @@ http://r05.wscdn.hls.xiaoka.tv/live/b56e356cbb1742c98da33651dd09c332/playlist.m3
 https://hlslive.qyvideo.net/live/5efaabaa7e884f0baefb45424807f925/index.m3u8
 
 #EXTINF:0, group-title="特别", 无线新闻
-http://r05.wscdn.hls.xiaoka.tv/live/76d9d278b1344798a09458fdbda57015/playlist.m3u8
 https://hlslive.qyvideo.net/live/5112adbfe8824b049a28ba0aaeca9484/index.m3u8
+http://r05.wscdn.hls.xiaoka.tv/live/76d9d278b1344798a09458fdbda57015/playlist.m3u8
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b224000.m3u8
 http://107.148.215.139:888/v/inews.php?id=inews
 
