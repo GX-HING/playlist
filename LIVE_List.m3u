@@ -2,8 +2,6 @@
 
 #EXTINF:0, group-title="特别", 有線新聞台
 
-#EXTINF:0, group-title="特别", 有線新聞台
-
 #EXTINF:0, group-title="特别", now新聞台
 
 #EXTINF:0, group-title="特别",CCTV-4K
@@ -15,17 +13,23 @@ http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_o
 ############# 港澳台 ########################################################
 
 #EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台
-
+http://r05.wscdn.hls.xiaoka.tv/live/b1e8276c156048e1a3538dd1bf57afc6/playlist.m3u8
 #EXTINF:0, group-title="特别",TVB J2台
 
+http://r05.wscdn.hls.xiaoka.tv/live/b56e356cbb1742c98da33651dd09c332/playlist.m3u8
+https://hlslive.qyvideo.net/live/5efaabaa7e884f0baefb45424807f925/index.m3u8
+
 #EXTINF:0, group-title="特别", 无线新闻
+http://r05.wscdn.hls.xiaoka.tv/live/76d9d278b1344798a09458fdbda57015/playlist.m3u8
+https://hlslive.qyvideo.net/live/5112adbfe8824b049a28ba0aaeca9484/index.m3u8
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b224000.m3u8
 http://107.148.215.139:888/v/inews.php?id=inews
+
 #EXTINF:0, tvg-id="", group-title="特别", 明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+
 #EXTINF:0, group-title="特别",无线新闻台
 http://202.40.202.173:8000/main
-#EXTINF:0, group-title="特别",无线新闻台
-http://202.40.202.173:8000/main
+
 #EXTINF:0, tvg-id="HKSTV-HKS", group-title="特别", 香港开电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
