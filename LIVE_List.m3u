@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="特别", 有線新聞台
-http://bytedance.hlslive.ks-cdn.com/live/46c224dbc2f3d12b384cdcdd7be7b22d/index.m3u8
+http://104.233.205.110:12364/v/md.php?id=194393
 #EXTINF:0, group-title="特别", 有線新聞台 / 臨時
 http://104.233.205.110:12364/v/ks.m3u8?token=Se9VrE0rbgTFIQmkwef/gp3r&id=ICABLENews
 #EXTINF:0, group-title="特别", now新聞台 / 臨時
