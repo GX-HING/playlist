@@ -1,23 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="http://g2.ykimg.com/051600005A1E3E7BADBAC305FA0063AE", group-title="", ［1971］《唐山大兄》李小龙｜动作｜粤语｜高清
-https://download.cloud.189.cn/file/downloadFile.action?dt=51&expired=1565384237300&play=1&sk=3063eb55-1fdb-4b46-ac1f-44bfe5c98b92&ufi=6149021986669439&zyc=180&token=cloud3&sig=RwIbmtg5u2gdD8%2Bx3YHszZqdXaQ%3D
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190710-1/35c661236fd0b74e034d4175577258da.jpg", group-title="", ［2019］《复仇者联盟4：终局之战》美国 科幻 高清蓝光
-https://jx22.178du.com/jx2223.php?do=down&id=c9be281b0dbf535e.mp4
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/onigvod/20190710-1/35c661236fd0b74e034d4175577258da.jpg", group-title="", ［2019］《复仇者联盟4：终局之战》美国 科幻
-https://jx3.hktvyb.com/jx2223.php?do=down&id=6c0aefa1621b9c1b.mp4
-#EXTINF:-1, tvg-logo="http://img21.mtime.cn/mt/2011/09/05/151727.80926416_1280X720X2.jpg", tgroup-title="", ［2011］《突袭》伊科·乌艾斯/动作/HD高清/优酷正片
-https://youku.com-a-youku.com/20190527/1003_ed17f1f9/index.m3u8
-#EXTINF:-1, tvg-logo="http://img31.mtime.cn/mt/2014/03/10/095928.83618735_1280X720X2.jpg", tgroup-title="", ［2014］《突袭2：暴徒》伊科·乌艾斯/动作/HD高清
-https://ifeng.com-l-ifeng.com/20180611/11599_14bcffce/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190417-10/bf5c882f68145571d249e3d6cfe0225e.jpg", tgroup-title="", ［2018］《突袭3》托尼·贾/动作/HD高清
-https://163.com-l-163.com/20181122/23960_07f19b58/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.hktvyb.com/upload/vod/20190712-1/64c64dae2b68f05361008a95910ac046.jpg", group-title="", 绝色营救 HD中字
-https://56.com-t-56.com/20190711/23660_9321cefb/index.m3u8
-#EXTINF:-1, tvg-logo="https://tupian.tupianzy.com/pic/upload/vod/2019-01-16/201901161547644844.jpg", group-title="", 蜘蛛侠：英雄远征[预告片]
-http://cn2.zuidadianying.com/20190116/ED2CDgBs/index.m3u8 
-#EXTINF:-1, tvg-logo="https://img.pic-imges.com/pic/upload/vod/2019-07/15631725511.jpg", group-title="", 德云社岳云鹏相声专场上海站2019/HD中字
-https://56.com-t-56.com/20190714/23695_8be72474/index.m3u8
-
-#EXTINF:-1, tvg-logo="", group-title="", 《老兵，你好》20190801 神枪手的传奇人生 - 抗战老兵李安甫
-http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f9caeb6f214446d59ed2978f6b046ec3/2000.m3u8
+	#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/08/2019080817075373083.jpg", group-title="", 《新大头儿子和小头爸爸3：俄罗斯奇遇记》
+	https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/e2579451cd694bdf8a6c19b860ece19e/4000.m3u8
