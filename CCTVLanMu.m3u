@@ -1,5 +1,11 @@
 #EXTM3U
 
+# 4k专区 - 《梵净山》
+	#EXTINF:-1, tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080815204381526.jpg", group-title="CCTV4K-超高清《梵净山》", 《梵净山》 上集
+	https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
+	#EXTINF:-1, tvg-logo="https://p3.img.cctvpic.com/photoworkspace/2019/08/08/2019080815204381526.jpg", group-title="CCTV4K-超高清《梵净山》", 《梵净山》 下集
+	https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/6d2dfa90551e4045949ba6bae32daf66/4000.m3u8
+
 # 致富经
 	#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/09/2019080909200945978.jpg", group-title="CCTV17《致富经》", 《致富经》 20190808 南麂岛上的老人与海
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/b2c6200a543e4cddb32bf5733638d326/2000.m3u8
