@@ -5,7 +5,29 @@ https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台
 http://bytedance.hlslive.ks-cdn.com/live/fgdgdfkkuuuullgg2/index.m3u8
 
-#EXTINF:0, group-title="特别", now新聞台
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台 RTHK31［香港IP］
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台 RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R1 FM926
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R2 FM948
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R3 AM567
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R4 FM976
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R5 AM783
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台R6 CNR_香港之声
+https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", 香港电台普通话台 AM621
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+
+#EXTINF:0, tvg-logo="", group-title="特别", Now 332新闻台
+https://ewcdnsite09.nowe.com/session/09-a7811d738a9a8932ec527b60355ce/Content/HLS/LIVE/Channel(HLS_CH332)/index.m3u8
+#EXTINF:0, tvg-logo="", group-title="特别", Now 331新闻台
+https://ewcdnsite01.nowe.com/session/09-3c55fc26ddb115236c45cbeaa5b78/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8
 
 #EXTINF:0, group-title="特别",CCTV-4K
 http://CDN-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
