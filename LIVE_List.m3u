@@ -674,94 +674,13 @@ http://hls-ott-zhibo.wasu.tv/live/305/index.m3u8
 
 ############# 虎牙直播 ########################################################
 
-	#EXTINF:0, group-title="虎牙直播", 各国赌片
-	https://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 蜡笔小新
-	https://aldirect.hls.huya.com/huyalive/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 僵尸约会
-	https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 韩国电影
-	https://aldirect.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 武林外传
-	https://aldirect.hls.huya.com/huyalive/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 甄子丹
-	https://aldirect.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 刘德华
-	https://aldirect.hls.huya.com/backsrc/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 科幻动作
-	https://aldirect.hls.huya.com/backsrc/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 周润发
-	https://aldirect.hls.huya.com/backsrc/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 恐怖大片
-	https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 木乃伊系列
-	http:////aldirect.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 洪金宝系列
-	https://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 吴京系列
-	https://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 成龙
-	https://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 李连杰
-	https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 林正英
-	https://tx.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 周星驰
-	https://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 海绵宝宝
-	https://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 齐天大圣
-	https://ws4.streamhls.huya.com/backsrc/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200/playlist.m3u8
-	#EXTINF:0, group-title="虎牙直播", 龙门镖局
-	https://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 五福星照
-	https://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 封神榜
-	https://ws4.streamhls.huya.com/backsrc/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200/playlist.m3u8
-	#EXTINF:0, group-title="虎牙直播", 聊斋传奇
-	https://aldirect.hls.huya.com/backsrc/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 纪晓岚
-	https://aldirect.hls.huya.com/backsrc/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 惊声尖叫
-	https://aldirect.hls.huya.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 西游记
-	https://aldirect.hls.huya.com/backsrc/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
-	#EXTINF:0, group-title="虎牙直播", 刘德华16
-	http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 周星驰17
-	http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 成龙18
-	http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 林正英19
-	http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 周润发20
-	http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 洪金宝21
-	http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 甄子丹22
-	http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 古天乐23
-	http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 黄日华24
-	https://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 吴京25
-	https://aldirect.hls.huya.com/backsrc/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 李连杰26
-	https://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 古惑仔27
-	http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 	#EXTINF:0, group-title="虎牙直播", 科幻28
 	http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 怪物科幻29
-	http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 漫威30
-	http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 真实改编31
-	http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 丧尸32
-	http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-	#EXTINF:0, group-title="虎牙直播", 恐怖33
-	http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+	#EXTINF:0, group-title="虎牙直播", 欢乐喜剧人·宋小宝沈腾小沈阳
+https://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1.m3u8
+	#EXTINF:0, group-title="虎牙直播", 喜剧大师赵本山小品系列
+https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1.m3u8
+
 	#EXTINF:0, group-title="虎牙直播", HBO34
 	https://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.m3u8
 	#EXTINF:0, group-title="虎牙直播", FTV35
