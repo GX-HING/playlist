@@ -291,6 +291,355 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225654/100001000000000600000000000915
 #EXTINF:0, tvg-id="sdetv", group-title="广西联通IPTV", 山东教育
 rtsp://103.251.96.15/PLTV/88888888/224/3221225762/10000100000000060000000000294600_0.smil
 
+############# TTC天途有线 ########################################################
+
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DLTTC 高清导视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000131.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DLTTC 高清导视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000009.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-1 新闻综合 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000132.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-1 新闻综合
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000001.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-2 生活频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000002.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-3 公共频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000003.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-4 文体频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000004.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-5 影视频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000005.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-6 少儿频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000006.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-7 财经频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000007.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连-8 购物频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000008.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000139.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000025.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁-2 都市
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000026.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁-3 影视剧
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000027.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁-4 体育
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000028.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁-5 宜佳购物
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000029.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁北方
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000030.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁生活
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000190.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁青少
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000191.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 辽宁公共
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000064.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 交通旅游
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000080.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 探索纪录
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000081.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 亚洲影院
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000058.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 中国气象频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000076.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 金鹰卡通
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000193.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 嘉佳卡通
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000194.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 炫动卡通
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000195.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 卡酷卡通
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000196.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 优漫卡通
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000197.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 新科动漫
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000203.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 动漫秀场
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000211.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 幼儿教育
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000214.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-1 综合 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000133.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-1 综合
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000010.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-2 财经 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000217.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-2 财经
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000011.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-3 综艺 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000134.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-3 综艺
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000012.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-4 国际
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000013.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-5 体育 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000135.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-5 体育
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000014.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-5+ 赛事 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000138.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-6 电影 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000136.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-6 电影
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000015.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-7 军事·农业
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000016.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-8 电视剧 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000137.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-8 电视剧
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000017.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-9 纪录
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000018.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-9 纪录(英文)
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000234.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-10 科教 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000218.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-10 科教
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000019.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-11 戏曲
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000020.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-12 社会与法 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000219.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-12 社会与法
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000021.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-13 新闻
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000022.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-14 少儿
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000023.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-15 音乐 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000325.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-15 音乐
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000024.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-NEWS
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000061.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-阿语
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000233.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-西语
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000231.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-法语
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000230.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-俄语
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000232.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 湖南卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000140.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 湖南卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000059.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 东方卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000141.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 东方卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000038.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 江苏卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000142.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 江苏卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000042.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 浙江卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000143.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 浙江卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000035.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 黑龙江卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000144.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 黑龙江卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000045.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 广东卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000145.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 广东卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000032.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 深圳卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000146.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 深圳卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000039.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 北京卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000147.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 北京卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000051.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 安徽卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000148.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 安徽卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000037.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 天津卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000149.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 天津卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000041.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 山东卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000221.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 山东卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000033.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 重庆卫视 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000222.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 重庆卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000043.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 广西卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000034.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 陕西卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000036.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 湖北卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000044.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 河南卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000046.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 四川卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000047.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 河北卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000048.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 贵州卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000049.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 吉林卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000050.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 云南卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000052.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 东南卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000053.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 山西卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000054.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 江西卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000055.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 宁夏卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000056.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 青海卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000057.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 新疆卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000060.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 西藏卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000063.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 甘肃卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000065.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 旅游卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000188.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 兵团卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000189.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 内蒙古卫视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000040.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-女性时尚
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000069.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-央视文化精品
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000071.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-中学生
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000082.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-央视台球
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000198.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-电视指南
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000207.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CETV 中教1台
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000062.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 江苏靓装
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000073.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 重庆汽摩
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000072.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 环球购物
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000031.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 时代风尚
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000066.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 法治天地
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000192.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 梨园频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000067.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 留学世界
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000068.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 快乐宠物
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000070.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 现代女性
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000074.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 考试在线
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000077.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 职业指南
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000078.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 快乐垂钓
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000199.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 彩民在线
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000200.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 城市建设
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000201.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 武术世界
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000202.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 文物宝库
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000204.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 天元围棋
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000205.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 极速汽车
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000208.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 七彩戏剧
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000209.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 金色频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000212.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", GTV网络棋牌
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000075.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 茶频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000079.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 老年福
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000210.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DV生活
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000206.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 家政频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000215.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 美食天府
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000213.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清剧场 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000164.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清纪实 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000165.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清影院 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000166.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清时尚 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000167.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清军事 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000168.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清少儿 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000169.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 新视觉 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000151.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CHC高清电影
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000150.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 亚洲影院
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000223.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX剧场高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000152.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX新知高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000153.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX映画高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000154.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX新艺高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000155.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX韩流高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000156.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX院线高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000157.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX怡家高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000158.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", DOX英伦高清
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000159.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 求索纪录
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000160.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 求索生活
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000161.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 求索动物
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000162.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 求索科学
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000163.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 环球影院 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000170.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 3D体验频道
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000171.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连电台文艺广播
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000173.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连电台交通广播
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000174.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连电台少儿广播
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000175.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 电台测试
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000176.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 大连电台经济广播
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000177.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高尔夫网球
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000216.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 精彩影视
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000220.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 欧美影院
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000224.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 精品剧场
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000225.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 高清娱乐
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000226.m3u8
+
 ############# 广东电信 ########################################################
 
 #EXTINF:0, group-title="广东电信", CCTV1高清
