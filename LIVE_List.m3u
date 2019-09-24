@@ -371,6 +371,8 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225762/100001000000000600000000002946
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000134.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-3 综艺
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000012.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-4 国际 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000315.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-4 国际
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000013.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-5 体育 HD
@@ -383,12 +385,16 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225762/100001000000000600000000002946
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000136.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-6 电影
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000015.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-7 军事·农业 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000241.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-7 军事·农业
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000016.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-8 电视剧 HD
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000137.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-8 电视剧
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000017.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-9 纪录 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000249.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-9 纪录
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000018.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-9 纪录(英文)
@@ -397,6 +403,8 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225762/100001000000000600000000002946
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000218.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-10 科教
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000019.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-11 戏曲 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000324.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-11 戏曲
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000020.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-12 社会与法 HD
@@ -405,6 +413,8 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225762/100001000000000600000000002946
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000021.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-13 新闻
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000022.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-14 少儿 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000248.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-14 少儿
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000023.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-15 音乐 HD
@@ -519,6 +529,8 @@ rtsp://103.251.96.15/PLTV/88888888/224/3221225762/100001000000000600000000002946
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000198.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CCTV-电视指南
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000207.m3u8
+#EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CETV 中教1台 HD
+	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000256.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", CETV 中教1台
 	http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5D89C957U30973010K776949EFI563A486EPBM32250AEV1044EZ33519WE45D648D672&playtoken=ABCDEFGHI&programid=4200000062.m3u8
 #EXTINF:0, tvg-logo="",  tvg-id="", group-title="TTC天途有线", 江苏靓装
