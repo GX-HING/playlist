@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0, tvg-logo="", group-title="特别", 央视新闻多视角全景看盛典
+http://pl.live.weibo.com/alicdn/0f563de44c020d3b7383626ee7722df4.m3u8
 #EXTINF:0, tvg-logo="http://t.cn/Ai8PE1IM", group-title="特别", 香港01新聞直播
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台
