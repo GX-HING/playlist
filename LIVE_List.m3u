@@ -914,9 +914,9 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 ############# 央视官方 ########################################################
 
 #EXTINF:0, tvg-id="CCTV-CCTV1", group-title="央视官网直播", CCTV-1综合
-https://cctvcnch5ca.v.wscdns.com/live/cctv1_2/index.m3u8?contentid=2820180516001
+https://cctvcnch5ca.v.wscdns.com/live/cctv1_2/index.m3u8
 #EXTINF:0, tvg-id="CCTV-CCTV2", group-title="央视官网直播", CCTV-2财经
-https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv2_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV3", group-title="央视官网直播", CCTV-3综艺
 https://cctvcnch5c.v.wscdns.com/live/cctv3_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV4", group-title="央视官网直播", CCTV-4中文国际(亚)
@@ -930,15 +930,15 @@ https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5_2/index.m3u8
 #EXTINF:0, tvg-id="CCTV-CCTV5-PLUS", group-title="央视官网直播", CCTV-5+体育赛事
 https://cctv5txyh5c.liveplay.myqcloud.com/live/cctv5plus_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV6", group-title="央视官网直播", CCTV-6电影
-https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv6_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV7", group-title="央视官网直播", CCTV-7国防军事
-https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv7_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV8", group-title="央视官网直播", CCTV-8电视剧
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv8_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV9", group-title="央视官网直播", CCTV-9纪录
-https://cctvalih5c.v.myalicdn.com/live/cctvjilu_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctvjilu_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV10", group-title="央视官网直播", CCTV-10科教
-https://cctvalih5c.v.myalicdn.com/live/cctv10_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv10_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV11", group-title="央视官网直播", CCTV-11戏曲
 https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv11_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV12", group-title="央视官网直播", CCTV-12社会与法
@@ -948,9 +948,9 @@ https://cctvcnch5c.v.wscdns.com/live/cctv13_2/index.m3u8
 #EXTINF:0, tvg-id="CCTV-CCTV15", group-title="央视官网直播", CCTV-14少儿
 https://cctvcnch5c.v.wscdns.com/live/cctvchild_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV16", group-title="央视官网直播", CCTV-15音乐
-https://cctvalih5c.v.myalicdn.com/live/cctv15_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv15_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV17", group-title="央视官网直播", CCTV-17农业农村
-https://cctvalih5c.v.myalicdn.com/live/cctv17_2/index.m3u8
+https://cctvcnch5ca.v.wscdns.com/live/cctv17_2/index.m3u8
 
 ############# 华数 ########################################################
 
