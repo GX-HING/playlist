@@ -914,7 +914,7 @@ http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 ############# 央视官方 ########################################################
 
 #EXTINF:0, tvg-id="CCTV-CCTV1", group-title="央视官网直播", CCTV-1综合
-https://cctvtxyh5c.liveplay.myqcloud.com/live/cctv1_2/index.m3u8 
+https://cctvcnch5ca.v.wscdns.com/live/cctv1_2/index.m3u8?contentid=2820180516001
 #EXTINF:0, tvg-id="CCTV-CCTV2", group-title="央视官网直播", CCTV-2财经
 https://cctvalih5c.v.myalicdn.com/live/cctv2_2/index.m3u8 
 #EXTINF:0, tvg-id="CCTV-CCTV3", group-title="央视官网直播", CCTV-3综艺
