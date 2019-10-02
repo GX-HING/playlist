@@ -4,4 +4,4 @@
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f014793d4dd14f9195822eefd6b3b810/2000.m3u8
 
 #EXTINF:-1, tvg-logo="", group-title="",Temp
-	http://192.168.0.5
+	http://192.168.0.7
