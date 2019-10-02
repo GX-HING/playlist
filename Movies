@@ -1,10 +1,7 @@
 #EXTM3U
 
-	#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/08/2019080817075373083.jpg", group-title="", 《新大头儿子和小头爸爸3：俄罗斯奇遇记》
-	http://newcntv.qcloudcdn.com/asp/hls/8000/0303000a/3/default/e2579451cd694bdf8a6c19b860ece19e/8000.m3u8
-
-	#EXTINF:-1, tvg-logo="https://p5.img.cctvpic.com/photoworkspace/2019/08/08/2019080817075373083.jpg", group-title="", 黑色....
-https://dbx5.tyswmp.com/20190825/mRLS1akf/900kb/hls/index.m3u8
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/10/01/fe0f713d8b704deb9c95ab004b66e2ed-2710.jpg",  group-title="20191001 庆祝中华人民共和国成立70周年阅兵专题文艺演出", 20191001 庆祝中华人民共和国成立70周年阅兵专题文艺演出
+	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fe0f713d8b704deb9c95ab004b66e2ed/2000.m3u8
 
 	#EXTINF:-1, tvg-logo="", group-title="",Temp
 http://192.168.0.5
