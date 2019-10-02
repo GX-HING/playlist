@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/10/01/fe0f713d8b704deb9c95ab004b66e2ed-2710.jpg",  group-title="20191001 庆祝中华人民共和国成立70周年阅兵专题文艺演出", 20191001 庆祝中华人民共和国成立70周年阅兵专题文艺演出
+#EXTINF:-1, tvg-logo="http://p2.img.cctvpic.com/fmspic/2019/10/01/fe0f713d8b704deb9c95ab004b66e2ed-2710.jpg",  group-title="", 20191001 庆祝中华人民共和国成立70周年阅兵专题文艺演出
 	http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/fe0f713d8b704deb9c95ab004b66e2ed/2000.m3u8
 
 	#EXTINF:-1, tvg-logo="", group-title="",Temp
