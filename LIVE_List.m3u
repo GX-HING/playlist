@@ -5,7 +5,7 @@ http://pl.live.weibo.com/alicdn/0f563de44c020d3b7383626ee7722df4.m3u8
 #EXTINF:0, tvg-logo="http://t.cn/Ai8PE1IM", group-title="特别", 香港01新聞直播
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台
-http://bytedance.hlslive.ks-cdn.com/live/fgdgdfkkuuuullgg2/index.m3u8
+http://r05.wscdn.hls.xiaoka.tv/live/4560db21379cddf88126d8e123b/playlist.m3u8
 
 #EXTINF:0, tvg-logo="", group-title="特别", 香港电台 RTHK31［香港IP］
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
