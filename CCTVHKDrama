@@ -46,75 +46,12 @@ http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9f5efc6ec0ee4c9a8fc
 
 ######################## 翡翠台 ###############################
 
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP01
-https://videos7.jsyunbf.com/20190722/9DbC2641/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP02
-https://videos7.jsyunbf.com/20190723/bvCEMdtv/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP03
-https://videos6.jsyunbf.com/20190724/TLMrIBvB/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP04
-https://videos6.jsyunbf.com/20190725/TBQ3Qfmt/index.m3u8
-#EXTINF:1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP05
-https://videos6.jsyunbf.com/20190727/1GhE2Fmt/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP06
-https://videos7.jsyunbf.com/20190729/QZOTMXE6/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP07
-https://jx3.hktvyb.com/jx2223.php?do=down&id=de018a0d3c265222.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP08
-https://jx3.hktvyb.com/jx2223.php?do=down&id=24cfffd8f9160cc6.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP09
-https://jx3.hktvyb.com/jx2223.php?do=down&id=afa86f9b8089da55.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP10｜720P
-https://download.cloud.189.cn/file/downloadFile.action?dt=51&expired=1564773971319&play=1&sk=3063eb55-1fdb-4b46-ac1f-44bfe5c98b92&ufi=6132222838241137&zyc=180&token=cloud14&sig=6ukFfqLcftYWgp1uvdp3gDEPumY%3D
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP10｜1080P
-https://jx3.178du.com/jx2223.php?do=down&id=50625999a53ace89.mp4
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP11
-https://iqiyi.qq-zuidazy.com/20190805/15805_5c4b9b95/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP12
-https://iqiyi.qq-zuidazy.com/20190806/15863_f2717d02/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP13
-https://wuji.zhulong-zuida.com/20190807/4588_d2caf651/index.m3u8
-#EXTINF:-1, tvg-logo="http://t.cn/Ailkdlok", group-title="【翡翠台 20:30】包青天再起風雲 [14/30]", 包青天再起風雲_EP14
-https://videos6.jsyunbf.com/20190809/AiaMKb0D/index.m3u8
+#EXTINF:-1, tvg-logo="", group-title="大酱园", EP04
+https://www6.laqddcc.com/hls/2020/01/23/D2onvNPn/playlist.m3u8
+#EXTINF:-1, tvg-logo="", group-title="大酱园", EP05
+https://www6.laqddcc.com/hls/2020/01/24/qejw5hOV/playlist.m3u8
+
 ################################################################################################################
 
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP01
-https://videos7.jsyunbf.com/20190715/wcNf38Jl/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP02
-https://videos7.jsyunbf.com/20190716/roDWvqz1/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP03
-https://videos8.jsyunbf.com/20190717/mUjOlL9D/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP04
-https://videos7.jsyunbf.com/20190718/3JTnbRr2/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP05
-https://videos7.jsyunbf.com/20190719/3eEplQyW/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP06
-https://videos7.jsyunbf.com/20190722/RDWtJOS7/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP07
-https://videos7.jsyunbf.com/20190723/vxfRZxnF/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP08
-https://videos6.jsyunbf.com/20190724/GPyPb2MA/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP09
-https://videos6.jsyunbf.com/20190725/7kk1so1O/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP10
-https://videos6.jsyunbf.com/20190727/VfUP3Nyk/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP11
-https://videos7.jsyunbf.com/20190729/JLbnzb0a/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP12
-https://videos6.jsyunbf.com/20190730/NeV5mdQW/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP13
-https://videos7.jsyunbf.com/20190731/znbuPaAE/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP14
-https://videos6.jsyunbf.com/20190801/nQvOxhcV/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP15
-https://videos7.jsyunbf.com/20190802/TnezHAUk/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP16
-https://videos6.jsyunbf.com/20190805/tptyY3eN/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP17
-https://videos7.jsyunbf.com/20190806/FWIX06X7/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP18
-https://videos7.jsyunbf.com/20190807/ENK7UK2d/index.m3u8
-#EXTINF:-1, tvg-logo="http://pic.youku778.com/upload/vod/2019-07-16/15632349950.jpg", group-title="【翡翠台 21:30】《十二傳說》19/25", 十二傳說_EP19
-https://videos6.jsyunbf.com/20190809/2tIZGBx7/index.m3u8
 
 ######################## VIUTV ###############################
