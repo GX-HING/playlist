@@ -45,21 +45,21 @@ http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/85e64ba78db84aa2b0f
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/9f5efc6ec0ee4c9a8fcdb1cf625281e6/2000.m3u8
 
 ######################## 翡翠台 ###############################
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP01
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP01
 https://www6.laqddcc.com/hls/2020/01/20/v8aBThdp/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP02
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP02
 https://www6.laqddcc.com/hls/2020/01/21/teniQ9zF/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP03
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP03
 https://www6.laqddcc.com/hls/2020/01/22/0Bn5cMGP/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP04
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP04
 https://www6.laqddcc.com/hls/2020/01/23/D2onvNPn/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP05
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP05
 https://www6.laqddcc.com/hls/2020/01/24/qejw5hOV/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP06
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP06
 https://www6.laqddcc.com/hls/2020/01/27/CPVMDxuU/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP07
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP07
 https://www6.laqddcc.com/hls/2020/01/28/mcQgFcWq/playlist.m3u8
-#EXTINF:-1, tvg-logo="", group-title="大酱园", EP08
+#EXTINF:-1, tvg-logo="http://www.gangju5.com/Uploads/vod/2020-01-18/5e23129641d55.jpg", group-title="大酱园", EP08
 https://www6.laqddcc.com/hls/2020/01/29/xrXL8nQJ/playlist.m3u8
 ################################################################################################################
 
