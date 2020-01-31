@@ -66,31 +66,3 @@ https://www6.laqddcc.com/hls/2020/01/30/xA8ZKEo1/playlist.m3u8
 
 ################################################################################################################
 
-## 封神演义 ##
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP01
-https://xigua-cdn.haima-zuida.com/20200113/326_6e2fcd4b/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP02
-https://xigua-cdn.haima-zuida.com/20200113/325_29290386/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP03
-https://meng.wuyou-zuida.com/20200115/25330_ddf74ac4/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP04
-https://xigua-cdn.haima-zuida.com/20200116/520_f945f892/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP05
-https://xigua-cdn.haima-zuida.com/20200117/671_f632aec3/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP06
-https://xigua-cdn.haima-zuida.com/20200118/809_216f64fe/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP07
-https://xigua-cdn.haima-zuida.com/20200121/1008_e60ea13d/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP08
-https://xigua-cdn.haima-zuida.com/20200122/1127_46eb68c2/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP09
-https://you-ku.qingyu-zuida.com/20200123/6879_053aee6b/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP10
-https://you-ku.qingyu-zuida.com/20200125/7006_b9ed289d/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP11
-https://xigua-cdn.haima-zuida.com/20200125/1199_08cfd2f3/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP12
-https://xigua-cdn.haima-zuida.com/20200129/1437_ca0be8fa/index.m3u8
-#EXTINF:-1, tvg-logo="http://bbs1.people.com.cn//img_new/Y0/FA/A3/55/01/1580458005761.png", group-title="封神演义", EP13
-https://xigua-cdn.haima-zuida.com/20200130/1543_bb018b2a/index.m3u8
-######################## VIUTV ###############################
