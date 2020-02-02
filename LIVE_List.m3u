@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:0, tvg-logo="", group-title="特别", CCTV-13新闻【高清】
-https://live-cnc-cdn.ysp.cctv.cn/48E4C938827FA73D41733D065157E23DA34504737DFC0B6D0CF0D87E1D10C29A5AD3451B7F0521A9155A0A956F2BE15E340C01AB6D86B02A563E7A0763B8AF8B981DA3AFCA23A1C7734AB452F82E66F6E3BF2F2EF6D7F23421549F595D09F48F/2000204601.m3u8
-#EXTINF:0, tvg-logo="", group-title="特别", 央视新闻多视角全景看盛典
-http://pl.live.weibo.com/alicdn/0f563de44c020d3b7383626ee7722df4.m3u8
 #EXTINF:0, tvg-logo="http://t.cn/Ai8PE1IM", group-title="特别", 香港01新聞直播
 https://live.cdn.hk01.com/origin/smil:01news.smil/playlist.m3u8
 #EXTINF:0, group-title="特别", 有線新聞台
@@ -33,14 +29,6 @@ https://ewcdnsite09.nowe.com/session/09-a7811d738a9a8932ec527b60355ce/Content/HL
 #EXTINF:0, tvg-logo="", group-title="特别", Now 331新闻台
 https://ewcdnsite01.nowe.com/session/09-3c55fc26ddb115236c45cbeaa5b78/Content/HLS/LIVE/Channel(HLS_CH331)/index.m3u8
 
-#EXTINF:0, group-title="特别",CCTV-17 农业农村
-http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv17_2/index.m3u8
-#EXTINF:0, group-title="特别",CCTV-4K
-http://CDN-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
-#EXTINF:0, group-title="特别",CCTV-4K
-http://59.44.24.27/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d17468d&wsid_tag=2acb8077&wsiphost=ipdbm
-#EXTINF:0, group-title="特别",CCTV-4K
-http://125.77.131.92/cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8?wshc_tag=0&wsts_tag=5d466962&wsid_tag=e198a70&wsiphost=ipdbm
 ############# 港澳台 ########################################################
 
 #EXTINF:0, tvg-id="TVB-TVB1", group-title="特别",翡翠台［广电标清］
